@@ -2,7 +2,7 @@
 ### Level 1
 | 번호 | 문제 이름            | 문제 번호 | 코드  | 풀이  |
 |:--|:------------------:|:-------:|:-----:|:-----:|
-| 01 | 신고 결과 받기         | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) | 1   | ✅   |
+| 01 | 신고 결과 받기         | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) | [92334](./Level_1/92334.py)   | ✅   |
 | 02 | 로또의 최고 순위와 최저 순위 | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) | 1   | ✅   |
 | 03 | 신규 아이디 추천        | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) | 1   | ✅   |
 | 04 | 숫자 문자열과 영단어      | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) |  1  | ✅   |
