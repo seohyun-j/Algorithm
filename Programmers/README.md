@@ -3,25 +3,25 @@
 | **번호** | **문제 이름**            | **문제 번호** | **코드**  | **풀이여부**  |
 |:--:|:------------------|:-------:|:-----:|:-----:|
 | 01 | 신고 결과 받기         | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) | [🔍](./Level_1/92334.py)   | ✅   |
-| 02 | 로또의 최고 순위와 최저 순위 | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) | [🔍](./Level_1/92334.py)   | ✅   |
-| 03 | 신규 아이디 추천        | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) | [🔍](./Level_1/92334.py)   | ✅   |
-| 04 | 숫자 문자열과 영단어      | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) |  [🔍](./Level_1/92334.py)  | ✅   |
+| 02 | 로또의 최고 순위와 최저 순위 | [77484](https://programmers.co.kr/learn/courses/30/lessons/77484) | [🔍](./Level_1/77484.py)   | ✅   |
+| 03 | 신규 아이디 추천        | [72410](https://programmers.co.kr/learn/courses/30/lessons/72410) | [🔍](./Level_1/72410.py)   | ✅   |
+| 04 | 숫자 문자열과 영단어      | [81301](https://programmers.co.kr/learn/courses/30/lessons/81301) |  [🔍](./Level_1/81301.py)  | ✅   |
 | 05 | 키패드 누르기      |[92334](https://programmers.co.kr/learn/courses/30/lessons/92334)  | [🔍](./Level_1/92334.py)   | ✅   |
-| 06 | 크레인 인형뽑기 게임      | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) |   [🔍](./Level_1/92334.py) | ✅   |
-| 07 | 없는 숫자 더하기      | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) | [🔍](./Level_1/92334.py)  | ✅   |
-| 08 | 음양 더하기      | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) | [🔍](./Level_1/92334.py)   | ✅   |
-| 09 | 내적      | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) |  [🔍](./Level_1/92334.py)  | ✅   |
-| 10 | 소수 만들기      | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) |[🔍](./Level_1/92334.py)    | ✅   |
-| 11 | 완주하지 못한 선수      | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) |  [🔍](./Level_1/92334.py)  | ✅   |
-| 12 | K번째 수      |[92334](https://programmers.co.kr/learn/courses/30/lessons/92334)  |  [🔍](./Level_1/92334.py)  | ✅   |
-| 13 | 모의고사      | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) |  [🔍](./Level_1/92334.py)  | ✅   |
-| 14 | 체육복      |  [92334](https://programmers.co.kr/learn/courses/30/lessons/92334)| [🔍](./Level_1/92334.py)   | ✅   |
-| 15 | 폰켓몬      | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) | [🔍](./Level_1/92334.py)   | ✅   |
-| 16 | 실패율      | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) |  [🔍](./Level_1/92334.py)  | ✅   |
-| 17 | 약수의 개수와 덧셈      | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) | [🔍](./Level_1/92334.py)   | ✅   |
-| 18 | 3진법 뒤집기      | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) | [🔍](./Level_1/92334.py)   | ✅   |
-| 19 | 예산      | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) | [🔍](./Level_1/92334.py)   | ✅   |
-| 20 | 두 개 뽑아서 더하기      | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) | [🔍](./Level_1/92334.py)   | ✅   |
+| 06 | 크레인 인형뽑기 게임      | [64061](https://programmers.co.kr/learn/courses/30/lessons/64061) |   [🔍](./Level_1/64061.py) | ✅   |
+| 07 | 없는 숫자 더하기      | [86051](https://programmers.co.kr/learn/courses/30/lessons/86051) | [🔍](./Level_1/86051.py)  | ✅   |
+| 08 | 음양 더하기      | [76501](https://programmers.co.kr/learn/courses/30/lessons/76501) | [🔍](./Level_1/76501.py)   | ✅   |
+| 09 | 내적      | [70128](https://programmers.co.kr/learn/courses/30/lessons/70128) |  [🔍](./Level_1/70128.py)  | ✅   |
+| 10 | 소수 만들기      | [12977](https://programmers.co.kr/learn/courses/30/lessons/12977) |[🔍](./Level_1/12977.py)    | ✅   |
+| 11 | 완주하지 못한 선수      | [42576](https://programmers.co.kr/learn/courses/30/lessons/42576) |  [🔍](./Level_1/42576.py)  | ✅   |
+| 12 | K번째 수      |[42748](https://programmers.co.kr/learn/courses/30/lessons/42748)  |  [🔍](./Level_1/42748.py)  | ✅   |
+| 13 | 모의고사      | [42840](https://programmers.co.kr/learn/courses/30/lessons/42840) |  [🔍](./Level_1/42840.py)  | ✅   |
+| 14 | 체육복      |  [42862](https://programmers.co.kr/learn/courses/30/lessons/42862)| [🔍](./Level_1/42862.py)   | ✅   |
+| 15 | 폰켓몬      | [1845](https://programmers.co.kr/learn/courses/30/lessons/1845) | [🔍](./Level_1/1845.py)   | ✅   |
+| 16 | 실패율      | [42889](https://programmers.co.kr/learn/courses/30/lessons/42889) |  [🔍](./Level_1/42889.py)  | ✅   |
+| 17 | 약수의 개수와 덧셈      | [77884](https://programmers.co.kr/learn/courses/30/lessons/77884) | [🔍](./Level_1/77884.py)   | ✅   |
+| 18 | 3진법 뒤집기      | [68935](https://programmers.co.kr/learn/courses/30/lessons/68935) | [🔍](./Level_1/68935.py)   | ✅   |
+| 19 | 예산      | [12982](https://programmers.co.kr/learn/courses/30/lessons/12982) | [🔍](./Level_1/12982.py)   | ✅   |
+| 20 | 두 개 뽑아서 더하기      | [68644](https://programmers.co.kr/learn/courses/30/lessons/68644) | [🔍](./Level_1/68644.py)   | ✅   |
 | 21 | 2016년      | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) | [🔍](./Level_1/92334.py)   | ✅   |
 | 22 | 최소직사각형      | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) | [🔍](./Level_1/92334.py)   | ✅   |
 | 23 | 나머지가 1이 되는 수 찾기      | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) | [🔍](./Level_1/92334.py)   | ✅   |
