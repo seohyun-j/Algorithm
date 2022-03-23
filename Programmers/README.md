@@ -6,7 +6,7 @@
 | 02 | 로또의 최고 순위와 최저 순위 | [77484](https://programmers.co.kr/learn/courses/30/lessons/77484) | [🔍](./Level_1/77484.py)   | ✅   |
 | 03 | 신규 아이디 추천        | [72410](https://programmers.co.kr/learn/courses/30/lessons/72410) | [🔍](./Level_1/72410.py)   | ✅   |
 | 04 | 숫자 문자열과 영단어      | [81301](https://programmers.co.kr/learn/courses/30/lessons/81301) |  [🔍](./Level_1/81301.py)  | ✅   |
-| 05 | 키패드 누르기      |[92334](https://programmers.co.kr/learn/courses/30/lessons/92334)  | [🔍](./Level_1/92334.py)   | ✅   |
+| 05 | 키패드 누르기      |[92334](https://programmers.co.kr/learn/courses/30/lessons/92334)  | [🔍](./Level_1/92334.py)   | ❎   |
 | 06 | 크레인 인형뽑기 게임      | [64061](https://programmers.co.kr/learn/courses/30/lessons/64061) |   [🔍](./Level_1/64061.py) | ✅   |
 | 07 | 없는 숫자 더하기      | [86051](https://programmers.co.kr/learn/courses/30/lessons/86051) | [🔍](./Level_1/86051.py)  | ✅   |
 | 08 | 음양 더하기      | [76501](https://programmers.co.kr/learn/courses/30/lessons/76501) | [🔍](./Level_1/76501.py)   | ✅   |
@@ -61,44 +61,44 @@
 ### 2️⃣ Level 2
 | **번호** | **문제 이름** | **문제 번호** | **코드**  | **풀이여부**  |
 |:--:|:------------------|:-------:|:-----:|:-----:|
-| 01 | | | | | |
-| 02 | | | | | |
-| 03 | | | | | |
-| 04 | | | | | |
-| 05 | | | | | |
-| 06 | | | | | |
-| 07 | | | | | |
-| 08 | | | | | |
-| 09 | | | | | |
-| 10 | | | | | |
-| 11 | | | | | |
-| 12 | | | | | |
-| 13 | | | | | |
-| 14 | | | | | |
-| 15 | | | | | |
-| 16 | | | | | |
-| 17 | | | | | |
-| 18 | | | | | |
-| 19 | | | | | |
-| 20 | | | | | |
-| 21 | | | | | |
-| 22 | | | | | |
-| 23 | | | | | |
-| 24 | | | | | |
-| 25 | | | | | |
-| 26 | | | | | |
-| 27 | | | | | |
-| 28 | | | | | |
-| 29 | | | | | |
-| 30 | | | | | |
-| 31 | | | | | |
-| 32 | | | | | |
-| 33 | | | | | |
-| 34 | | | | | |
-| 35 | | | | | |
-| 36 | | | | | |
-| 37 | | | | | |
-| 38 | | | | | |
-| 39 | | | | | |
-| 40 | | | | | |
-| 41 | | | | | |
+| 01 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 02 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 03 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 04 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 05 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 06 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 07 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 08 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 09 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 10 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 11 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 12 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 13 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 14 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 15 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 16 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 17 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 18 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 19 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 20 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 21 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 22 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 23 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 24 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 25 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 26 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 27 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 28 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 29 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 30 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 31 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 32 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 33 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 34 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 35 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 36 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 37 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 38 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 39 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 40 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 41 | | | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
