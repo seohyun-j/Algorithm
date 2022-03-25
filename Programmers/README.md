@@ -61,73 +61,73 @@
 ### 2️⃣ Level 2
 | **번호** | **문제 이름** | **문제 번호** | **코드**  | **풀이여부**  |
 |:--:|:------------------|:-------:|:-----:|:-----:|
-| 01 | 문자열 압축 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 02 | 오픈채팅방 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 03 | 멀쩡한 사각형 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 04 | 124 나라의 숫자 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 05 | 기능개발 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 06 | 더 맵게 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 07 | 타겟 넘버 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 08 | 짝지어 제거하기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 09 | 행렬 테두리 회전하기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 10 | 메뉴 리뉴얼 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 11 | 괄호 변환 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 12 | 뉴스 클리스터링 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 13 | 거리두기 확인하기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 14 | 수식 최대화 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 15 | 튜플 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 16 | 빛의 경로 사이클 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 17 | 전화번호 목록 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 18 | 프린터 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 19 | 가장 큰 수 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 20 | 소수 찾기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 21 | 조이스틱 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 22 | 게임 맵 최단거리 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 23 | 예상 대진표 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 24 | 순위 검색 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 25 | 후보키 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 26 | 괄호 회전하기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 27 | 배달 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 28 | 위장 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 29 | 다리를 지나는 트럭 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 30 | H-Index | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 31 | 카펫 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 32 | 큰 수 만들기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 33 | 피로도 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 34 | 프렌즈4블록 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 35 | 2개 이하로 다른 비트 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 36 | 삼각 달팽이 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 37 | 영어 끝말잇기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 38 | 주식가격 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 39 | 구명보트 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 40 | 교점에 별 만들기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 41 | 전력망을 둘로 나누기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 42 | 모음사전 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 43 | 캐시 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 44 | 이진 변환 반복하기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 45 | 점프와 순간 이동 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 46 | n^2 배열 자르기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 47 | 쿼드압축 후 개수 세기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 48 | 스킬트리 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 49 | 방문 길이 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 50 | 방금그곡 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 50 | 가장 큰 정사각형 찾기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 51 | 압축 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 52 | 파일명 정렬 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 53 | 올바른 괄호 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 54 | n진수 게임 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 55 | 다음 큰 숫자 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 56 | 땅따먹기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 57 | k진수에서 소수 개수 구하기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 58 | 숫자의 표현 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 59 | 주차 요금 계산 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 60 | 최댓값과 최솟값 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 61 | 최솟값 만들기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 62 | 피보나치 수 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 63 | 행렬의 곱셈 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 64 | JadenCase 문자열 만들기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 65 | N개의 최소공배수 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
-| 66 | 양궁대회 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_2/edit.py) | ✅ |
+| 01 | 문자열 압축 | [60057](https://programmers.co.kr/learn/courses/30/lessons/60057) | [🔍](./Level_2/60057.py) | ✅ |
+| 02 | 오픈채팅방 | [42888](https://programmers.co.kr/learn/courses/30/lessons/42888) | [🔍](./Level_2/42888.py) | ✅ |
+| 03 | 멀쩡한 사각형 | [62048](https://programmers.co.kr/learn/courses/30/lessons/62048) | [🔍](./Level_2/62048.py) | ✅ |
+| 04 | 124 나라의 숫자 | [12899](https://programmers.co.kr/learn/courses/30/lessons/12899) | [🔍](./Level_2/12899.py) | ✅ |
+| 05 | 기능개발 | [42586](https://programmers.co.kr/learn/courses/30/lessons/42586) | [🔍](./Level_2/42586.py) | ✅ |
+| 06 | 더 맵게 | [42626](https://programmers.co.kr/learn/courses/30/lessons/42626) | [🔍](./Level_2/42626.py) | ✅ |
+| 07 | 타겟 넘버 | [43165](https://programmers.co.kr/learn/courses/30/lessons/43165) | [🔍](./Level_2/43165.py) | ❎ |
+| 08 | 짝지어 제거하기 | [12973](https://programmers.co.kr/learn/courses/30/lessons/12973) | [🔍](./Level_2/12973.py) | ✅ |
+| 09 | 행렬 테두리 회전하기 | [77485](https://programmers.co.kr/learn/courses/30/lessons/77485) | [🔍](./Level_2/77485.py) | ❎ |
+| 10 | 메뉴 리뉴얼 | [72411](https://programmers.co.kr/learn/courses/30/lessons/72411) | [🔍](./Level_2/72411.py) | ✅ |
+| 11 | 괄호 변환 | [60058](https://programmers.co.kr/learn/courses/30/lessons/60058) | [🔍](./Level_2/60058.py) | ❎ |
+| 12 | 뉴스 클리스터링 | [17677](https://programmers.co.kr/learn/courses/30/lessons/17677) | [🔍](./Level_2/17677.py) | ✅ |
+| 13 | 거리두기 확인하기 | [81302](https://programmers.co.kr/learn/courses/30/lessons/81302) | [🔍](./Level_2/81302.py) | ✅ |
+| 14 | 수식 최대화 | [67257](https://programmers.co.kr/learn/courses/30/lessons/67257) | [🔍](./Level_2/67257.py) | ✅ |
+| 15 | 튜플 | [64065](https://programmers.co.kr/learn/courses/30/lessons/64065) | [🔍](./Level_2/64065.py) | ✅ |
+| 16 | 빛의 경로 사이클 | [86052](https://programmers.co.kr/learn/courses/30/lessons/86052) | [🔍](./Level_2/86052.py) | ❎ |
+| 17 | 전화번호 목록 | [42577](https://programmers.co.kr/learn/courses/30/lessons/42577) | [🔍](./Level_2/42577.py) | ✅ |
+| 18 | 프린터 | [42587](https://programmers.co.kr/learn/courses/30/lessons/42587) | [🔍](./Level_2/42587.py) | ✅ |
+| 19 | 가장 큰 수 | [42746](https://programmers.co.kr/learn/courses/30/lessons/42746) | [🔍](./Level_2/42746.py) | ✅ |
+| 20 | 소수 찾기 | [42839](https://programmers.co.kr/learn/courses/30/lessons/42839) | [🔍](./Level_2/42839.py) | ✅ |
+| 21 | 조이스틱 | [42860](https://programmers.co.kr/learn/courses/30/lessons/42860) | [🔍](./Level_2/42860.py) | ❎ |
+| 22 | 게임 맵 최단거리 | [1844](https://programmers.co.kr/learn/courses/30/lessons/1844) | [🔍](./Level_2/1844.py) | ✅ |
+| 23 | 예상 대진표 | [12985](https://programmers.co.kr/learn/courses/30/lessons/12985) | [🔍](./Level_2/12985.py) | ✅ |
+| 24 | 순위 검색 | [72412](https://programmers.co.kr/learn/courses/30/lessons/72412) | [🔍](./Level_2/72412.py) | ❎ |
+| 25 | 후보키 | [42890](https://programmers.co.kr/learn/courses/30/lessons/42890) | [🔍](./Level_2/42890.py) | ✅ |
+| 26 | 괄호 회전하기 | [76502](https://programmers.co.kr/learn/courses/30/lessons/76502) | [🔍](./Level_2/76502.py) | ✅ |
+| 27 | 배달 | [12978](https://programmers.co.kr/learn/courses/30/lessons/12978) | [🔍](./Level_2/12978.py) | ✅ |
+| 28 | 위장 | [42578](https://programmers.co.kr/learn/courses/30/lessons/42578) | [🔍](./Level_2/42578.py) | ✅ |
+| 29 | 다리를 지나는 트럭 | [42583](https://programmers.co.kr/learn/courses/30/lessons/42583) | [🔍](./Level_2/42583.py) | ✅ |
+| 30 | H-Index | [42747](https://programmers.co.kr/learn/courses/30/lessons/42747) | [🔍](./Level_2/42747.py) | ✅ |
+| 31 | 카펫 | [42842](https://programmers.co.kr/learn/courses/30/lessons/42842) | [🔍](./Level_2/42842.py) | ✅ |
+| 32 | 큰 수 만들기 | [42883](https://programmers.co.kr/learn/courses/30/lessons/42883) | [🔍](./Level_2/42883.py) | ✅ |
+| 33 | 피로도 | [87946](https://programmers.co.kr/learn/courses/30/lessons/87946) | [🔍](./Level_2/87946.py) | ✅ |
+| 34 | 프렌즈4블록 | [17679](https://programmers.co.kr/learn/courses/30/lessons/17679) | [🔍](./Level_2/17679.py) | ❎ |
+| 35 | 2개 이하로 다른 비트 | [77885](https://programmers.co.kr/learn/courses/30/lessons/77885) | [🔍](./Level_2/77885.py) | ❎ |
+| 36 | 삼각 달팽이 | [68645](https://programmers.co.kr/learn/courses/30/lessons/68645) | [🔍](./Level_2/68645.py) | ❎ |
+| 37 | 영어 끝말잇기 | [12981](https://programmers.co.kr/learn/courses/30/lessons/12981) | [🔍](./Level_2/12981.py) | ❎ |
+| 38 | 주식가격 | [42584](https://programmers.co.kr/learn/courses/30/lessons/42584) | [🔍](./Level_2/42584.py) | ✅ |
+| 39 | 구명보트 | [42885](https://programmers.co.kr/learn/courses/30/lessons/42885) | [🔍](./Level_2/42885.py) | ✅ |
+| 40 | 교점에 별 만들기 | [87377](https://programmers.co.kr/learn/courses/30/lessons/87377) | [🔍](./Level_2/87377.py) | ❎ |
+| 41 | 전력망을 둘로 나누기 | [86971](https://programmers.co.kr/learn/courses/30/lessons/86971) | [🔍](./Level_2/86971.py) | ❎ |
+| 42 | 모음사전 | [84512](https://programmers.co.kr/learn/courses/30/lessons/84512) | [🔍](./Level_2/84512.py) | ❎ |
+| 43 | 캐시 | [17680](https://programmers.co.kr/learn/courses/30/lessons/17680) | [🔍](./Level_2/17680.py) | ❎ |
+| 44 | 이진 변환 반복하기 | [70129](https://programmers.co.kr/learn/courses/30/lessons/70129) | [🔍](./Level_2/70129.py) | ❎ |
+| 45 | 점프와 순간 이동 | [12980](https://programmers.co.kr/learn/courses/30/lessons/12980) | [🔍](./Level_2/12980.py) | ❎ |
+| 46 | n^2 배열 자르기 | [87390](https://programmers.co.kr/learn/courses/30/lessons/87390) | [🔍](./Level_2/87390.py) | ❎ |
+| 47 | 쿼드압축 후 개수 세기 | [68936](https://programmers.co.kr/learn/courses/30/lessons/68936) | [🔍](./Level_2/68936.py) | ❎ |
+| 48 | 스킬트리 | [49993](https://programmers.co.kr/learn/courses/30/lessons/49993) | [🔍](./Level_2/49993.py) | ✅ |
+| 49 | 방문 길이 | [49994](https://programmers.co.kr/learn/courses/30/lessons/49994) | [🔍](./Level_2/49994.py) | ❎ |
+| 50 | 방금그곡 | [17683](https://programmers.co.kr/learn/courses/30/lessons/17683) | [🔍](./Level_2/17683.py) | ❎ |
+| 50 | 가장 큰 정사각형 찾기 | [12905](https://programmers.co.kr/learn/courses/30/lessons/12905) | [🔍](./Level_2/12905.py) | ❎ |
+| 51 | 압축 | [17684](https://programmers.co.kr/learn/courses/30/lessons/17684) | [🔍](./Level_2/17684.py) | ❎ |
+| 52 | 파일명 정렬 | [17686](https://programmers.co.kr/learn/courses/30/lessons/17686) | [🔍](./Level_2/17686.py) | ❎ |
+| 53 | 올바른 괄호 | [12909](https://programmers.co.kr/learn/courses/30/lessons/12909) | [🔍](./Level_2/12909.py) | ✅ |
+| 54 | n진수 게임 | [17687](https://programmers.co.kr/learn/courses/30/lessons/17687) | [🔍](./Level_2/17687.py) | ❎ |
+| 55 | 다음 큰 숫자 | [12911](https://programmers.co.kr/learn/courses/30/lessons/12911) | [🔍](./Level_2/12911.py) | ❎ |
+| 56 | 땅따먹기 | [12913](https://programmers.co.kr/learn/courses/30/lessons/12913) | [🔍](./Level_2/12913.py) | ❎ |
+| 57 | k진수에서 소수 개수 구하기 | [92335](https://programmers.co.kr/learn/courses/30/lessons/92335) | [🔍](./Level_2/92335.py) | ❎ |
+| 58 | 숫자의 표현 | [12924](https://programmers.co.kr/learn/courses/30/lessons/12924) | [🔍](./Level_2/12924.py) | ❎ |
+| 59 | 주차 요금 계산 | [92341](https://programmers.co.kr/learn/courses/30/lessons/92341) | [🔍](./Level_2/92341.py) | ✅ |
+| 60 | 최댓값과 최솟값 | [12939](https://programmers.co.kr/learn/courses/30/lessons/12939) | [🔍](./Level_2/12939.py) | ✅ |
+| 61 | 최솟값 만들기 | [12941](https://programmers.co.kr/learn/courses/30/lessons/12941) | [🔍](./Level_2/12941.py) | ✅ |
+| 62 | 피보나치 수 | [12945](https://programmers.co.kr/learn/courses/30/lessons/12945) | [🔍](./Level_2/12945.py) | ❎ |
+| 63 | 행렬의 곱셈 | [12949](https://programmers.co.kr/learn/courses/30/lessons/12949) | [🔍](./Level_2/12949.py) | ❎ |
+| 64 | JadenCase 문자열 만들기 | [12951](https://programmers.co.kr/learn/courses/30/lessons/12951) | [🔍](./Level_2/12951.py) | ✅ |
+| 65 | N개의 최소공배수 | [12953](https://programmers.co.kr/learn/courses/30/lessons/12953) | [🔍](./Level_2/12953.py) | ❎ |
+| 66 | 양궁대회 | [92342](https://programmers.co.kr/learn/courses/30/lessons/92342) | [🔍](./Level_2/92342.py) | ❎ |
 
 ### 3️⃣ Level 3
 | **번호** | **문제 이름** | **문제 번호** | **코드**  | **풀이여부**  |
