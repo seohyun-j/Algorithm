@@ -92,8 +92,8 @@
 | 29 | 다리를 지나는 트럭 | [42583](https://programmers.co.kr/learn/courses/30/lessons/42583) | [🔍](./Level_2/42583.py) | ✅ |
 | 30 | H-Index | [42747](https://programmers.co.kr/learn/courses/30/lessons/42747) | [🔍](./Level_2/42747.py) | ✅ |
 | 31 | 카펫 | [42842](https://programmers.co.kr/learn/courses/30/lessons/42842) | [🔍](./Level_2/42842.py) | ✅ |
-| 32 | 큰 수 만들기 | [42883](https://programmers.co.kr/learn/courses/30/lessons/42883) | [🔍](./Level_2/42883.py) | ✅ |
-| 33 | 피로도 | [87946](https://programmers.co.kr/learn/courses/30/lessons/87946) | [🔍](./Level_2/87946.py) | ✅ |
+| 32 | 큰 수 만들기 | [42883](https://programmers.co.kr/learn/courses/30/lessons/42883) | [🔍](./Level_2/42883.py) | ❎ |
+| 33 | 피로도 | [87946](https://programmers.co.kr/learn/courses/30/lessons/87946) | [🔍](./Level_2/87946.py) | ❎ |
 | 34 | 프렌즈4블록 | [17679](https://programmers.co.kr/learn/courses/30/lessons/17679) | [🔍](./Level_2/17679.py) | ❎ |
 | 35 | 2개 이하로 다른 비트 | [77885](https://programmers.co.kr/learn/courses/30/lessons/77885) | [🔍](./Level_2/77885.py) | ❎ |
 | 36 | 삼각 달팽이 | [68645](https://programmers.co.kr/learn/courses/30/lessons/68645) | [🔍](./Level_2/68645.py) | ❎ |
