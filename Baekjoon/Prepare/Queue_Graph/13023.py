@@ -1,4 +1,4 @@
-
+# 위의 조건을 만족하려면 해당 그래프의 깊이가 5임을 증명하면 됨
 
 import sys
 
@@ -6,7 +6,6 @@ n, m = map(int, input().split())
 arr1 = [[] for i in range(n)]
 visited = [False] * n
 
-# 그래프를 인접 리스트 방식으로 표현하였습니다.
 for _ in range(m):
     a, b = map(int, sys.stdin.readline().split())
     arr1[a].append(b)
