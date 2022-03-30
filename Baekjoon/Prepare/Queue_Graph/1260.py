@@ -22,9 +22,10 @@ def dfs(x):
         if not d_visited[y]:
             dfs(y)
 
+
 def bfs():
     queue = deque([v])
-    b_visited = [False for _ in range(n+1)]
+    b_visited = [False for _ in range(n + 1)]
     b_visited[v] = True
     while queue:
         k = queue.popleft()
@@ -34,8 +35,8 @@ def bfs():
                 b_visited[i] = True
                 queue.append(i)
 
+
 dfs(v)
 print()
 bfs()
 print()
-

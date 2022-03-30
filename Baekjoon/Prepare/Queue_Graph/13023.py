@@ -7,7 +7,7 @@ arr1 = [[] for i in range(n)]
 visited = [False] * n
 
 for _ in range(m):
-    a, b = map(int, sys.stdin.readline().split())
+    a, b = map(int, sys.stdin.readline().strip().split())
     arr1[a].append(b)
     arr1[b].append(a)
 
