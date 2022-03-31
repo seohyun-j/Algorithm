@@ -11,9 +11,6 @@ for _ in range(m):
     arr[a].append(b)
     arr[b].append(a)
 
-for i in arr:
-    i.sort()
-
 d_visited = [False] * (n + 1)
 d_answer = 0
 
@@ -30,7 +27,4 @@ for j in range(1, n + 1):
         dfs(j)
         d_answer += 1
 
-
-
 print(d_answer)
-
