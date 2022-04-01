@@ -9,8 +9,8 @@
 | 05 | Queue and Graph | 미로 탐색 | [2178](https://www.acmicpc.net/problem/2178) | [🔍](./Prepare/Queue_Graph/2178.py) | ☑ |
 | 06 | Queue and Graph | 토마토 | [7576](https://www.acmicpc.net/problem/7576) | [🔍](./Prepare/Queue_Graph/7576.py) | ☑ |
 | 07 | Queue and Graph | 나이트의 이동 | [7562](https://www.acmicpc.net/problem/7562) | [🔍](./Prepare/Queue_Graph/7562.py) | ❌ |
-| 08 | BFS | 숨바꼭질 | [1697](https://www.acmicpc.net/problem/1697) | [🔍](./Prepare/Queue_Graph/1697.py) | ☑ |
-| 09 | BFS | 숨바꼭질 4 | [13913](https://www.acmicpc.net/problem/13913) | [🔍](./Prepare/Queue_Graph/13913.py) | ❌ |
-| 10 | BFS | 이모티콘 | [14226](https://www.acmicpc.net/problem/14226) | [🔍](./Prepare/Queue_Graph/14226.py) | ❌ |
-| 11 | BFS | 숨바꼭질 3 | [13549](https://www.acmicpc.net/problem/13549) | [🔍](./Prepare/Queue_Graph/13549.py) | ☑ |
-| 12 | BFS | 알고스팟 | [1261](https://www.acmicpc.net/problem/1261) | [🔍](./Prepare/Queue_Graph/1261.py) | ❌ |
+| 08 | BFS | 숨바꼭질 | [1697](https://www.acmicpc.net/problem/1697) | [🔍](./Prepare/BFS/1697.py) | ☑ |
+| 09 | BFS | 숨바꼭질 4 | [13913](https://www.acmicpc.net/problem/13913) | [🔍](./Prepare/BFS/13913.py) | ❌ |
+| 10 | BFS | 이모티콘 | [14226](https://www.acmicpc.net/problem/14226) | [🔍](./Prepare/BFS/14226.py) | ❌ |
+| 11 | BFS | 숨바꼭질 3 | [13549](https://www.acmicpc.net/problem/13549) | [🔍](./Prepare/BFS/13549.py) | ☑ |
+| 12 | BFS | 알고스팟 | [1261](https://www.acmicpc.net/problem/1261) | [🔍](./Prepare/BFS/1261.py) | ❌ |
