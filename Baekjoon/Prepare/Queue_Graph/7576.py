@@ -23,7 +23,6 @@ def bfs():
             if 0 <= nx < m and 0 <= ny < n and arr[nx][ny] == 0:
                 arr[nx][ny] = arr[x][y] + 1
                 queue.append([nx, ny])
-        print(arr)
 
 bfs()
 for i in arr:
