@@ -12,5 +12,5 @@
 | 08 | BFS | 숨바꼭질 | [1697](https://www.acmicpc.net/problem/1697) | [🔍](./Prepare/Queue_Graph/1697.py) | ☑ |
 | 09 | BFS | 숨바꼭질 4 | [13913](https://www.acmicpc.net/problem/13913) | [🔍](./Prepare/Queue_Graph/13913.py) | ❌ |
 | 10 | BFS | 이모티콘 | [14226](https://www.acmicpc.net/problem/14226) | [🔍](./Prepare/Queue_Graph/14226.py) | ❌ |
-| 11 | BFS | 숨바꼭질 3 | [13549](https://www.acmicpc.net/problem/13549) | [🔍](./Prepare/Queue_Graph/13549.py) | ❌ |
+| 11 | BFS | 숨바꼭질 3 | [13549](https://www.acmicpc.net/problem/13549) | [🔍](./Prepare/Queue_Graph/13549.py) | ☑ |
 | 12 | BFS | 알고스팟 | [1261](https://www.acmicpc.net/problem/1261) | [🔍](./Prepare/Queue_Graph/1261.py) | ❌ |
