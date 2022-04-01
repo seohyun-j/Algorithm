@@ -1,35 +1,33 @@
 from collections import deque
 
-n, m = map(int, input().split())
-arr = [list(map(int, input())) for _ in range(m)]
+m, n = map(int, input().split())
+matrix = [list(map(int, input().split())) for _ in range(n)]
 
-dx = [-1, 1, 0, 0]
-dy = [0, 0, -1, 1]
-day = 0
+queue = deque([])
+dx, dy = [-1, 1, 0, 0], [0, 0, -1, 1]
+res = 0
 
-queue = deque()
-
-for i in range(m):
-    for j in range(n):
-        if arr[i][j] == 1:
+for i in range(n):
+    for j in range(m):
+        if matrix[i][j] == 1:
             queue.append([i, j])
+
 
 def bfs():
     while queue:
         x, y = queue.popleft()
         for i in range(4):
-            nx = x + dx[i]
-            ny = y + dy[i]
-            if 0 <= nx < m and 0 <= ny < n and arr[nx][ny] == 0:
-                arr[nx][ny] = arr[x][y] + 1
+            nx, ny = dx[i] + x, dy[i] + y
+            if 0 <= nx < n and 0 <= ny < m and matrix[nx][ny] == 0:
+                matrix[nx][ny] = matrix[x][y] + 1
                 queue.append([nx, ny])
 
+
 bfs()
-for i in arr:
+for i in matrix:
     for j in i:
         if j == 0:
             print(-1)
             exit(0)
-    day = max(day, max(i))
-
-print(day-1)
+    res = max(res, max(i))
+print(res - 1)
