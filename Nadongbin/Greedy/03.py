@@ -1,13 +1,13 @@
-import sys
+n, k = map(int, input().split())
 
-N, K = map(int, sys.stdin.readline().split())
-sum = 0  # 출력값 즉, 답
-while N > 1:
-    if N % K == 0:
-        N = N / K
-        sum += 1
+cnt = 0
+while True:
+    if n == 1:
+        break
+    if n % k == 0:
+        n /= k
     else:
-        N -= 1
-        sum += 1
+        n -= 1
+    cnt += 1
 
-print(sum)
+print(cnt)
