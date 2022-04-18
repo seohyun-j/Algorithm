@@ -21,7 +21,7 @@ def dfs(x, y):
 
 for i in range(n):
     for j in range(m):
-        if dfs(i, j) == True:
+        if dfs(i, j):
             answer += 1
 
 print(answer)
