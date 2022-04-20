@@ -1,9 +1,10 @@
 n, m = map(int, input().split())
-data = []
+data = [[2, 0, 0, 0, 1, 1, 0], [0, 0, 1, 0, 1, 2, 0], [0, 1, 1, 0, 1, 0, 0], [0, 1, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 1, 1], [0, 1, 0, 0, 0, 0, 0], [0, 1, 0, 0, 0, 0, 0]]
+
 temp = [[0] * m for _ in range(n)]
 
-for _ in range(n):
-    data.append(list(map(int, input().split())))
+#for _ in range(n):
+#    data.append(list(map(int, input().split())))
 
 dx = [-1, 1, 0, 0]
 dy = [0, 0, -1, 1]
@@ -36,13 +37,14 @@ def dfs(count):
     if count == 3:
         for i in range(n):
             for j in range(m):
-                temp[i][j] == data[i][j]
+                temp[i][j] = data[i][j]
         for i in range(n):
             for j in range(m):
                 if temp[i][j] == 2:
                     virus(i, j)
         result = max(result, get_score())
         return
+
     for i in range(n):
         for j in range(m):
             if data[i][j] == 0:
@@ -55,3 +57,5 @@ def dfs(count):
 
 dfs(0)
 print(result)
+print(temp)
+
