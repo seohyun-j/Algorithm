@@ -8,24 +8,24 @@ n6 = '1D2S3T*'
 
 
 def solution(dartResult):
-    point = []
     answer = []
-    dartResult = dartResult.replace('10','k')
+    dartResult = dartResult.replace('10', 'k')
     sdt = ['S', 'D', 'T']
-    for i in range(len(dartResult)):
-      if dartResult[i] in sdt:
-        if dartResult[i-1] == 'k':
-          answer.append(10**(sdt.index(dartResult[i])+1))
-        else:
-          answer.append(int(dartResult[i-1])**(sdt.index(dartResult[i])+1))
-      elif dartResult[i] == '*':
-        answer[-1] = answer[-1]*2
-      elif dartResult[i] == '*':
-        answer[-1] = answer[-1]*(-1)
-        print(answer[-1])
-    print(answer)
+    for idx, val in enumerate(dartResult):
+        if val in sdt:
+            if dartResult[idx-1] == "k":
+                answer.append(10**(sdt.index(val)+1))
+            else:
+                answer.append(int(dartResult[idx-1])**(sdt.index(val)+1))
+        if val == "*":
+            if len(answer) == 1:
+                answer[-1] *= 2
+            else:
+                answer[-1] *= 2
+                answer[-2] *= 2
+        if val == "#":
+            answer[-1] = -answer[-1]
     return sum(answer)
-
 
 
 
