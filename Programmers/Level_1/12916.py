@@ -11,5 +11,9 @@ def solution(s):
         y += 1
     return True if p==y else False
 
+def second_solution(s):
+    s = list(s.lower())
+    return True if s.count('p') == s.count('y') else False
+
 print(solution(s0))
 print(solution(s1))
