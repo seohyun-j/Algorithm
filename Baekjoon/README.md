@@ -18,6 +18,7 @@
 ### 2️⃣ 삼성 SW 역량 테스트 기출 문제 [바로가기↗](https://www.acmicpc.net/workbook/view/1152)
 | **번호** | **문제 이름** | **문제 번호** | **코드** | **풀이여부** |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| 01 | 구슬탈출2 | [13460](https://www.acmicpc.net/problem/13023) | [🔍](./Samsung/13460.py) | ❌ |
+| 01 | 구슬탈출2 | [13460](https://www.acmicpc.net/problem/13023) | [🔍](./Samsung/13460.py) | ☑ |
 | 02 | 2048(easy) | [12100](https://www.acmicpc.net/problem/12100) | [🔍](./Samsung/12100.py) | ❌ |
-| 03 | 연구소3 | [17142](https://www.acmicpc.net/problem/17242) | [🔍](./Samsung/17142.py) | ❌ |
+| 03 | 연구소3 | [17142](https://www.acmicpc.net/problem/17242) | [🔍](./Samsung/17142.py) | ☑ |
+| 04 | 주사위 굴리기 2 | [23288](https://www.acmicpc.net/problem/23288) | [🔍](./Samsung/23288.py) | ☑ |
