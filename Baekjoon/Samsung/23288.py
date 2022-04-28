@@ -10,6 +10,7 @@ dice = [2, 4, 1, 3, 5, 6]
 d, score, x, y = 0, 0, 0, 0
 vector = [(0, 1), (1, 0), (0, -1), (-1, 0)]
 
+
 def change_dice(dice, d):
     if d == 0:
         dice[1], dice[2], dice[3], dice[5] = dice[5], dice[1], dice[2], dice[3]
@@ -19,6 +20,7 @@ def change_dice(dice, d):
         dice[1], dice[2], dice[3], dice[5] = dice[2], dice[3], dice[5], dice[1]
     elif d == 3:
         dice[0], dice[2], dice[4], dice[5] = dice[2], dice[4], dice[5], dice[0]
+    return dice
 
 
 def check(a, b):
@@ -58,6 +60,7 @@ def dice_move(a, b, d):
 
 for _ in range(k):
     x, y, d = dice_move(x, y, d)
+    dice = change_dice(dice, d)
     C = bfs(x, y)
     score += arr[x][y] * C
     A, B = dice[5], arr[x][y]
