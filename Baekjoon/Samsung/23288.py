@@ -7,11 +7,8 @@ n, m, k = map(int, input().split())
 arr = [list(map(int, input().split())) for _ in range(n)]
 
 dice = [2, 4, 1, 3, 5, 6]
-d = 0
-score = 0
+d, score, x, y = 0, 0, 0, 0
 vector = [(0, 1), (1, 0), (0, -1), (-1, 0)]
-x, y = 0, 0
-
 
 def change_dice(dice, d):
     if d == 0:
