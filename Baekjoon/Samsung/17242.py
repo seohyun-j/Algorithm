@@ -1,5 +1,5 @@
 from collections import deque
-from itertools import permutations
+from itertools import combinations
 from copy import deepcopy
 import sys
 import math
@@ -17,7 +17,7 @@ for i in range(n):
         if arr[i][j] == 2:
             virus.append((i, j, 0))
 
-virus = list(permutations(virus, 3))
+virus = list(combinations(virus, m))
 
 
 def check(maps):
@@ -65,3 +65,6 @@ if answer == math.inf:
     print(-1)
 else:
     print(answer)
+
+
+
