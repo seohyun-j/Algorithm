@@ -24,3 +24,4 @@
 | 04 | 주사위 굴리기 2 | [23288](https://www.acmicpc.net/problem/23288) | [🔍](./Samsung/23288.py) | ☑ |
 | 05 | 마법사 상어와 파이어볼 | [20056](https://www.acmicpc.net/problem/20056) | [🔍](./Samsung/20056.py) | ☑ |
 | 06 | 마법사 상어와 토네이도 | [20057](https://www.acmicpc.net/problem/20057) | [🔍](./Samsung/20057.py) | ☑ |
+| 07 | 마법사 상어와 파이어스톰 | [20058](https://www.acmicpc.net/problem/20058) | [🔍](./Samsung/20058.py) | ❌ |
