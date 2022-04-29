@@ -45,6 +45,7 @@ def sand_count(x, y, d):
 
 for i in range(2 * n - 1):
     key = i % 4
+    print(key, time)
     if key == 0 or key == 2:
         time += 1
     for _ in range(time):
