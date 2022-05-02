@@ -16,6 +16,8 @@
 | 12 | BFS | 알고스팟 | [1261](https://www.acmicpc.net/problem/1261) | [🔍](./Prepare/BFS/1261.py) | ❌ |
 
 ### 2️⃣ 삼성 SW 역량 테스트 기출 문제 [바로가기↗](https://www.acmicpc.net/workbook/view/1152)
+2022 상반기 삼성 코테 : 2022.05.01 시행
+
 | **번호** | **문제 이름** | **문제 번호** | **코드** | **풀이여부** |
 | :--: | :--: | :--: | :--: | :--: |
 | 01 | 구슬탈출2 | [13460](https://www.acmicpc.net/problem/13023) | [🔍](./Samsung/13460.py) | ☑ |
