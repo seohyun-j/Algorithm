@@ -11,35 +11,47 @@ q2 = [[1, 1, 100, 97]]
 
 def solution(rows, columns, queries):
     answer = []
-    arr = [[j + i for i in range(1, columns + 1)] for j in range(0, rows ** 2, rows)]
+    arr = [[0 for col in range(columns)] for row in range(rows)]
+
+    t = 1
+    for row in range(rows):
+        for col in range(columns):
+            arr[row][col] = t
+            t += 1
+
     for x1, y1, x2, y2 in queries:
-        tmp = arr[x1-1][y1-1]
+        tmp = arr[x1 - 1][y1 - 1]
         mini = tmp
 
-        for i in range(x1-1, x2-1): # 왼쪽 세로
-            key = arr[i+1][y1-1]
-            arr[i][y1-1] = key
-            mini = min(mini, key)
+        # 왼쪽 세로
+        for i in range(x1 - 1, x2 - 1):
+            val = arr[i + 1][y1 - 1]
+            arr[i][y1 - 1] = val
+            mini = min(mini, val)
 
-        for i in range(y1-1, y2-1): # 하단 가로
-            key = arr[x2-1][i+1]
-            arr[x2-1][i] = key
-            mini = min(mini,key)
+        # 하단 가로
+        for i in range(y1 - 1, y2 - 1):
+            val = arr[x2 - 1][i + 1]
+            arr[x2 - 1][i] = val
+            mini = min(mini, val)
 
-        for i in range(x2-1, x1-1, -1): # 오른쪽 세로
-            key = arr[i-1][y2-1]
-            arr[i][y2-1] = key
-            mini = min(mini, key)
+        # 오른쪽 세로
+        for i in range(x2 - 1, x1 - 1, -1):
+            val = arr[i - 1][y2 - 1]
+            arr[i][y2 - 1] = val
+            mini = min(mini, val)
 
-        for i in range(y2-1, y1-1, -1): # 상단 가로
-            key = arr[x1-1][i-1]
-            arr[x1-1][i] = key
-            mini = min(mini, key)
+        # 상단 가로
+        for i in range(y2 - 1, y1 - 1, -1):
+            val = arr[x1 - 1][i - 1]
+            arr[x1 - 1][i] = val
+            mini = min(mini, val)
 
-        arr[x1-1][y1] = tmp
+        arr[x1 - 1][y1] = tmp
         answer.append(mini)
 
     return answer
+
 
 
 print(solution(r0, c0, q0))
