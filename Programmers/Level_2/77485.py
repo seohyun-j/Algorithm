@@ -11,7 +11,7 @@ q2 = [[1, 1, 100, 97]]
 
 def solution(rows, columns, queries):
     answer = []
-    arr = [[0 for col in range(columns)] for row in range(rows)]
+    arr = [[0 for _ in range(columns)] for _ in range(rows)]
 
     t = 1
     for row in range(rows):
