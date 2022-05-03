@@ -69,9 +69,9 @@
 | 06 | 더 맵게 | [42626](https://programmers.co.kr/learn/courses/30/lessons/42626) | [🔍](./Level_2/42626.py) | ☑ |
 | 07 | 타겟 넘버 | [43165](https://programmers.co.kr/learn/courses/30/lessons/43165) | [🔍](./Level_2/43165.py) | ☑ |
 | 08 | 짝지어 제거하기 | [12973](https://programmers.co.kr/learn/courses/30/lessons/12973) | [🔍](./Level_2/12973.py) | ☑ |
-| 09 | 행렬 테두리 회전하기 | [77485](https://programmers.co.kr/learn/courses/30/lessons/77485) | [🔍](./Level_2/77485.py) | ❌ |
+| 09 | 행렬 테두리 회전하기 | [77485](https://programmers.co.kr/learn/courses/30/lessons/77485) | [🔍](./Level_2/77485.py) | ☑ |
 | 10 | 메뉴 리뉴얼 | [72411](https://programmers.co.kr/learn/courses/30/lessons/72411) | [🔍](./Level_2/72411.py) | ☑ |
-| 11 | 괄호 변환 | [60058](https://programmers.co.kr/learn/courses/30/lessons/60058) | [🔍](./Level_2/60058.py) | ❌ |
+| 11 | 괄호 변환 | [60058](https://programmers.co.kr/learn/courses/30/lessons/60058) | [🔍](./Level_2/60058.py) | ☑ |
 | 12 | 뉴스 클리스터링 | [17677](https://programmers.co.kr/learn/courses/30/lessons/17677) | [🔍](./Level_2/17677.py) | ☑ |
 | 13 | 거리두기 확인하기 | [81302](https://programmers.co.kr/learn/courses/30/lessons/81302) | [🔍](./Level_2/81302.py) | ☑ |
 | 14 | 수식 최대화 | [67257](https://programmers.co.kr/learn/courses/30/lessons/67257) | [🔍](./Level_2/67257.py) | ☑ |
