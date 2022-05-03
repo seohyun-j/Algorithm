@@ -1,23 +1,9 @@
 arr_p = ["(()())()", ")(", "()))((()"]
 
 
-def divide(d):
-    openP = 0
-    closeP = 0
-
-    for i in range(len(d)):
-        if d[i] == '(':
-            openP += 1
-        else:
-            closeP += 1
-        if openP == closeP:
-            return d[:i + 1], d[i + 1:]
-
-
-def balanced(b):
+def check_bal(k):
     stack = []
-
-    for i in b:
+    for i in k:
         if i == '(':
             stack.append(i)
         else:
@@ -27,16 +13,34 @@ def balanced(b):
     return True
 
 
+def check_count(k):
+    left_word, right_word = 0, 0
+    for idx, val in enumerate(k):
+        if val == '(':
+            left_word += 1
+        else:
+            right_word += 1
+        if left_word == right_word:
+            return k[:idx + 1], k[idx + 1:]
+
+
 def solution(p):
+    answer = ''
+
+    # 과정 1
     if not p:
-        return ""
+        return ''
 
-    u, v = divide(p)
+    # 과정 2
+    u, v = check_count(p)
 
-    if balanced(u):
+    # 과정 3
+    if check_bal(u):
         return u + solution(v)
+
+    # 과정 4
     else:
-        answer = '('
+        answer += '('
         answer += solution(v)
         answer += ')'
 
@@ -46,7 +50,7 @@ def solution(p):
             else:
                 answer += '('
 
-        return answer
+    return answer
 
 
 for i in arr_p:
