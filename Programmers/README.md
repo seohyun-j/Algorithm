@@ -6,7 +6,7 @@
 | 02 | 로또의 최고 순위와 최저 순위 | [77484](https://programmers.co.kr/learn/courses/30/lessons/77484) | [🔍](./Level_1/77484.py) | ☑ |
 | 03 | 신규 아이디 추천 | [72410](https://programmers.co.kr/learn/courses/30/lessons/72410) | [🔍](./Level_1/72410.py) | ☑ |
 | 04 | 숫자 문자열과 영단어 | [81301](https://programmers.co.kr/learn/courses/30/lessons/81301) | [🔍](./Level_1/81301.py) | ☑ |
-| 05 | 키패드 누르기 |[92334](https://programmers.co.kr/learn/courses/30/lessons/67256) | [🔍](./Level_1/67256.py) | ❌ |
+| 05 | 키패드 누르기 |[92334](https://programmers.co.kr/learn/courses/30/lessons/67256) | [🔍](./Level_1/67256.py) | ☑ |
 | 06 | 크레인 인형뽑기 게임 | [64061](https://programmers.co.kr/learn/courses/30/lessons/64061) | [🔍](./Level_1/64061.py) | ☑ |
 | 07 | 없는 숫자 더하기 | [86051](https://programmers.co.kr/learn/courses/30/lessons/86051) | [🔍](./Level_1/86051.py) | ☑ |
 | 08 | 음양 더하기 | [76501](https://programmers.co.kr/learn/courses/30/lessons/76501) | [🔍](./Level_1/76501.py) | ☑ |
