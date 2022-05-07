@@ -76,7 +76,7 @@
 | 13 | 거리두기 확인하기 | [81302](https://programmers.co.kr/learn/courses/30/lessons/81302) | [🔍](./Level_2/81302.py) | ☑ |
 | 14 | 수식 최대화 | [67257](https://programmers.co.kr/learn/courses/30/lessons/67257) | [🔍](./Level_2/67257.py) | ☑ |
 | 15 | 튜플 | [64065](https://programmers.co.kr/learn/courses/30/lessons/64065) | [🔍](./Level_2/64065.py) | ☑ |
-| 16 | 빛의 경로 사이클 | [86052](https://programmers.co.kr/learn/courses/30/lessons/86052) | [🔍](./Level_2/86052.py) | ❌ |
+| 16 | 빛의 경로 사이클 | [86052](https://programmers.co.kr/learn/courses/30/lessons/86052) | [🔍](./Level_2/86052.py) | ☑ |
 | 17 | 전화번호 목록 | [42577](https://programmers.co.kr/learn/courses/30/lessons/42577) | [🔍](./Level_2/42577.py) | ☑ |
 | 18 | 프린터 | [42587](https://programmers.co.kr/learn/courses/30/lessons/42587) | [🔍](./Level_2/42587.py) | ☑ |
 | 19 | 가장 큰 수 | [42746](https://programmers.co.kr/learn/courses/30/lessons/42746) | [🔍](./Level_2/42746.py) | ☑ |
