@@ -17,11 +17,13 @@ def solution(numbers):
     numbers = [i for i in numbers]
     for i in range(1,len(numbers)+1):
       arr = list(permutations(numbers,i))
-      for j in range(len(arr)):
-        num = int(''.join(map(str, arr[j])))
-        if is_prime(num):
-          answer.append(num)
-    return len(set(answer))
+      for j in arr:
+          num = int(''.join(map(str, j)))
+          if num in answer:
+              pass
+          elif is_prime(num):
+              answer.append(num)
+    return len(answer)    
 
 # 다른 사람 풀이 : 위의 풀이보다는 직관적이지만 느리다.
 from itertools import permutations
