@@ -5,24 +5,17 @@ name3 = "JAZ"
 
 def solution(name):
     answer = 0
-    idx = 0
-    arr = [min(ord(i) - ord('A'), ord('Z') - ord(i) + 1) for i in name]
-    while True:
-        answer += arr[idx]
-        arr[idx] = 0
+    min_move = len(name) - 1
 
-        if sum(arr) == 0:
-            break
+    for i, char in enumerate(name):
+        answer += min(ord(char) - ord('A'), ord('Z') - ord(char) + 1)
+        next = i + 1
+        while next < len(name) and name[next] == 'A':
+            next += 1
 
-        left, right = 1, 1
-        while arr[idx - left] == 0:
-            left += 1
-        while arr[idx + right] == 0:
-            right += 1
+        min_move = min([min_move, 2 * i + len(name) - next, i + 2 * (len(name) - next)])
 
-        answer += left if left < right else right
-        idx += -left if left < right else right
-
+    answer += min_move
     return answer
 
 
