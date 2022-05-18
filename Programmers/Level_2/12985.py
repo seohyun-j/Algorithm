@@ -14,7 +14,30 @@ def solution(n, a, b):
 
 
 def other_solution(n, a, b):
-    return ((a - 1) ^ (b - 1)).bit_length()
+    answer = 0
+    arr = [i for i in range(1, n + 1)]
+    if a > b:
+        a, b = b, a
+
+    while True:
+        divide = []
+        answer += 1
+        l = len(arr)
+        for i in range(0, len(arr), 2):
+            confirm = arr[i:i + 2]
+            if confirm == [a, b]:
+                break
+            if a in confirm:
+                divide.append(a)
+            elif b in confirm:
+                divide.append(b)
+            else:
+                divide.append(confirm[0])
+        arr = divide
+        if len(arr) != l // 2:
+            break
+
+    return answer
 
 
 print(solution(N, A, B))
