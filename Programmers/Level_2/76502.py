@@ -5,7 +5,6 @@ s3 = "}}}"
 
 from collections import deque
 
-
 def check(x):
     stack = []
     for c in x:
@@ -23,6 +22,21 @@ def check(x):
                 return False
     return len(stack) == 0
 
+def dic_check(x):
+    dic = {'(':0, '[':0, '{':0}
+    for i in x:
+        if i in ['{', '(', '[']:
+            dic[i] += 1
+        else:
+            if i == ')' and dic['('] > 0:
+                dic['('] -= 1
+            elif i == ']' and dic['['] > 0:
+                dic['['] -= 1
+            elif i == '}' and dic['{'] > 0:
+                dic['{'] -= 1
+            else:
+                return False
+    return sum(dic.values()) == 0
 
 def solution(s):
     answer = 0
