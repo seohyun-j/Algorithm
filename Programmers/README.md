@@ -152,37 +152,37 @@
 | 18 | 등굣길 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
 | 19 | 단어 변환 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
 | 20 | 합승 택시 요금 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 21 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 22 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 23 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 24 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 25 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 26 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 27 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 28 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 29 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 30 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 31 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 32 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 33 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 34 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 35 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 36 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 37 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 38 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 39 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 40 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 41 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 42 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 43 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 44 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 45 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 46 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 47 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 48 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 49 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 50 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 51 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 52 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 53 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 54 |  | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 21 | 경주로 건설 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 22 | 베스트앨범 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 23 | 여행경로 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 24 | 아이템 줍기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 25 | 퍼즐 조각 채우기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 26 | 광고 삽입 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 27 | 기둥과 보 설치 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 28 | 길 찾기 게임 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 29 | 징검다리 건너기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 30 | 모두 0으로 만들기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 31 | 섬 연결하기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 32 | 카드 짝 맞추기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 33 | 외벽 점검 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 34 | 매칭 점수 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 35 | 110 옮기기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 36 | 단속카메라 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 37 | 블록 이동하기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 38 | 공 이동 시뮬레이션 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 39 | 풍선 터트리기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 40 | 가장 긴 팰린드롬 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 41 | 스타 수열 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 42 | 기지국 설치 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 43 | 숫자 게임 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 44 | 스티커 모으기(2) | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 45 | 거스름돈 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 46 | 멀리 뛰기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 47 | 야근 지수 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 48 | 줄 서는 방법 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 49 | 최고의 집합 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 50 | 하노이의 탑 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 51 | N-Queen | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 52 | 양과 늑대 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 53 | 파괴되지 않은 건물 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 54 | 사라지는 발판 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
