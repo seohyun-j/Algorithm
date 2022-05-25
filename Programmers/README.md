@@ -81,10 +81,10 @@
 | 18 | 프린터 | [42587](https://programmers.co.kr/learn/courses/30/lessons/42587) | [🔍](./Level_2/42587.py) | ☑ |
 | 19 | 가장 큰 수 | [42746](https://programmers.co.kr/learn/courses/30/lessons/42746) | [🔍](./Level_2/42746.py) | ☑ |
 | 20 | 소수 찾기 | [42839](https://programmers.co.kr/learn/courses/30/lessons/42839) | [🔍](./Level_2/42839.py) | ☑ |
-| 21 | 조이스틱 | [42860](https://programmers.co.kr/learn/courses/30/lessons/42860) | [🔍](./Level_2/42860.py) | ❌ |
+| 21 | 조이스틱 | [42860](https://programmers.co.kr/learn/courses/30/lessons/42860) | [🔍](./Level_2/42860.py) | ☑ |
 | 22 | 게임 맵 최단거리 | [1844](https://programmers.co.kr/learn/courses/30/lessons/1844) | [🔍](./Level_2/1844.py) | ☑ |
 | 23 | 예상 대진표 | [12985](https://programmers.co.kr/learn/courses/30/lessons/12985) | [🔍](./Level_2/12985.py) | ☑ |
-| 24 | 순위 검색 | [72412](https://programmers.co.kr/learn/courses/30/lessons/72412) | [🔍](./Level_2/72412.py) | ❌ |
+| 24 | 순위 검색 | [72412](https://programmers.co.kr/learn/courses/30/lessons/72412) | [🔍](./Level_2/72412.py) | ☑ |
 | 25 | 후보키 | [42890](https://programmers.co.kr/learn/courses/30/lessons/42890) | [🔍](./Level_2/42890.py) | ☑ |
 | 26 | 괄호 회전하기 | [76502](https://programmers.co.kr/learn/courses/30/lessons/76502) | [🔍](./Level_2/76502.py) | ☑ |
 | 27 | 배달 | [12978](https://programmers.co.kr/learn/courses/30/lessons/12978) | [🔍](./Level_2/12978.py) | ☑ |
