@@ -5,19 +5,10 @@ k0 = 2
 k1 = 3
 k2 = 4
 
-from itertools import combinations
-
-
-def solution(number, k):
-    answer = ''
-    number = [i for i in number]
-    num_arr = combinations(number, len(number) - k)
-
-    return answer
-
-
 # 내가 푼 문제 풀이 방법 -> 정확성 테스트에서 시간초과로 걸림
 from itertools import combinations
+
+
 def solution(number, k):
     answer = 0
     cnt = list(combinations(range(len(number)), k))
@@ -35,6 +26,18 @@ def solution(number, k):
 def solution(number, k):
     cnt = list(combinations(list(number), len(number) - k))
     return ''.join(sorted(cnt, reverse=True)[0])
+
+
+# stack의 LIFO 이용하고, k -= 1을 이용하여 진행함
+# 시간 복잡도 O(n)
+def solution(number, k):
+    answer = []
+    for num in number:
+        while k > 0 and answer and answer[-1] < num:
+            answer.pop()
+            k -= 1
+        answer.append(num)
+    return ''.join(answer[:len(answer)-k])
 
 
 print(solution(n0, k0))
