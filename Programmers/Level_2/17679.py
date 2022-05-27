@@ -3,34 +3,39 @@ m1, n1 = 6, 6
 board0 = ["CCBDE", "AAADE", "AAABF", "CCBBF"]
 board1 = ["TTTANT", "RRFACC", "RRRFCC", "TRRRAA", "TTMMMF", "TMMTTJ"]
 
-def match(x, y, board, w, h):
-    d = [(-1, 0), (0, 1), (-1, 1)]
-    result = []
-    for i in range(3):
-        dx, dy = d[i]
-        nx, ny = dx + x, dy + y
 
-        if 0 <= nx < w and 0 <= y < h:
-            print(nx, ny)
-            if board[ny][nx] == board[y][x]:
-                result.append((ny, nx))
-    if len(result) == 3:
-        result.append((y, x))
-        print(result)
-        return result
-    return 0
+def match(m, n, board):
+    result = set()
+
+    for y in range(0, n - 1):
+        for x in range(0, m - 1):
+            if board[y][x] == board[y + 1][x + 1] == board[y][x + 1] == board[y + 1][x]:
+                result |= {(y, x), (y + 1, x), (y, x + 1), (y + 1, x + 1)}
+
+    for i, j in result:
+        board[i][j] = ''
+    print(len(result))
+    board = [list(''.join(i) + ' ' * (m - len(''.join(i)))) for i in board]
+
+    return board, 1
 
 
 def solution(m, n, board):
     answer = 0
-    w, h = len(board[0]), len(board)
     board = list(map(list, zip(*board)))
-    print(board)
+    for _ in range(3):
+        result = set()
 
-    for y in range(h):
-        for x in range(w):
-            result = match(x, y, board, w, h)
-    return answer
+        for y in range(0, n - 1):
+            for x in range(0, m - 1):
+                if board[y][x] == board[y + 1][x + 1] == board[y][x + 1] == board[y + 1][x]:
+                    result |= {(y, x), (y + 1, x), (y, x + 1), (y + 1, x + 1)}
+        print(result)
+        for i, j in result:
+            board[i][j] = ''
+
+        board = [list(''.join(i) + ' ' * (m - len(''.join(i)))) for i in board]
+    return board
 
 
 print(solution(m0, n0, board0))
