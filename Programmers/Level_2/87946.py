@@ -5,13 +5,19 @@ from itertools import permutations
 
 
 def solution(k, dungeons):
-    answer = []
-    seq = list(permutations([i for i in range(len(dungeons))], len(dungeons)))
-
-    for i in seq:
-        sum = 0
-        keys = k
-
+    queue = list(permutations(dungeons, len(dungeons)))
+    answer = 0
+    for i in queue:
+        cnt = 0
+        tmp = k
+        for j in i:
+            x, y = j
+            if x <= tmp:
+                tmp -= y
+                cnt += 1
+        answer = max(answer, cnt)
+        if answer == len(dungeons):
+            return answer
     return answer
 
 
