@@ -12,9 +12,9 @@ def solution(numbers):
             idx = num.rfind('0')
             num = list(num)
             num[idx] = '1'
-            num[idx+1] = '0'
+            num[idx + 1] = '0'
 
-        answer.append(int(''.join(num),2))
+        answer.append(int(''.join(num), 2))
 
     return answer
 
