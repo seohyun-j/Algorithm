@@ -30,12 +30,23 @@ def solution(line):
     max_x, min_x = max(px), min(px)
     max_y, min_y = max(py), min(py)
 
-    arr = [['.' for _ in range(max_x - min_x + 1)] for _ in range(max_y - min_y + 1)]
+    arr = ['.' * (max_x - min_x + 1)] * (max_y - min_y + 1)
 
     for x, y in point:
-        arr[max_y - y][max_x - x] = '*'
+        arr[max_y - y] = arr[max_y - y][:x - min_x] + '*' + arr[max_y - y][x - min_x + 1:]
 
-    return [''.join(i) for i in arr]
+    # 아래와 같이 진행하면 정확성 테스트에서 걸린다.
+    # 이유가 무엇일까 ? ?
+    '''
+        arr = [['.' for _ in range(max_x - min_x + 1)] for _ in range(max_y - min_y + 1)]
+    
+        for x, y in point:
+            arr[max_y - y][max_x - x] = '*'
+            
+        return [''.join(i) for i in arr]
+    '''
+
+    return arr
 
 
 print(solution(line0))
