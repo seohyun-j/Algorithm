@@ -8,7 +8,7 @@ def solution(n):
         n //= 2
     return ans
 
-
+# 2진수 이용하는 것이 훨씬 빠름
 def bin_solution(n):
     return bin(n).count('1')
 
