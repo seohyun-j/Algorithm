@@ -30,13 +30,11 @@ def solution(m, musicinfos):
 
         if m in music:
             answer.append([time, idx, title])
-
+            
+    answer = sorted(answer, key=lambda x: (-x[0], x[1]))
     if not answer:
         return "(None)"
-    elif len(answer) == 1:
-        return answer[0][2]
     else:
-        answer = sorted(answer, key=lambda x: (-x[0], x[1]))
         return answer[0][2]
 
 
