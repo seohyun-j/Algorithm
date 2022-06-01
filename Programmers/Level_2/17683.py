@@ -7,26 +7,21 @@ info2 = ["12:00,12:14,HELLO,C#DEFGAB", "13:00,13:05,WORLD,ABCDEF"]
 
 
 def m_replace(s):
-    if 'A#' in s:
-        s = s.replace('A#', 'a')
-    if 'C#' in s:
-        s = s.replace('C#', 'c')
-    if 'D#' in s:
-        s = s.replace('D#', 'd')
-    if 'F#' in s:
-        s = s.replace('F#', 'f')
-    if 'G#' in s:
-        s = s.replace('G#', 'g')
+    large_s = ['A#', 'C#', 'D#', 'F#', 'G#']
+    small_s = ['a', 'c', 'd', 'f', 'g']
+    for p1, p2 in zip(large_s, small_s):
+        if p1 in s:
+            s = s.replace(p1, p2)
     return s
 
 
 def solution(m, musicinfos):
     answer = []
     m = m_replace(m)
-    for idx, i in enumerate(musicinfos):
-        st_t, en_t, title, music = i.split(',')
-        st_t = list(map(int,st_t.split(':')))
-        en_t = list(map(int,en_t.split(':')))
+    for idx, val in enumerate(musicinfos):
+        st_t, en_t, title, music = val.split(',')
+        st_t = list(map(int, st_t.split(':')))
+        en_t = list(map(int, en_t.split(':')))
 
         time = en_t[1] - st_t[1] + (en_t[0] - st_t[0]) * 60
 
