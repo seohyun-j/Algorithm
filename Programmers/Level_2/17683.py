@@ -25,9 +25,10 @@ def solution(m, musicinfos):
     m = m_replace(m)
     for idx, i in enumerate(musicinfos):
         st_t, en_t, title, music = i.split(',')
-        st_t = st_t.split(':')
-        en_t = en_t.split(':')
-        time = int(en_t[1]) - int(st_t[1]) + (int(en_t[0]) - int(st_t[0])) * 60
+        st_t = list(map(int,st_t.split(':')))
+        en_t = list(map(int,en_t.split(':')))
+
+        time = en_t[1] - st_t[1] + (en_t[0] - st_t[0]) * 60
 
         music = m_replace(music)
         music = music * (time // len(music)) + music[:time % len(music)]
