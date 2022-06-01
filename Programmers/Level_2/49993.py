@@ -3,7 +3,6 @@ sk_tree = ["BACDE", "CBADF", "AECB", "BDA"]
 
 from collections import deque
 
-
 def solution(skill, skill_trees):
     answer = 0
     for i in skill_trees:
