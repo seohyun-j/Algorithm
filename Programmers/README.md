@@ -92,24 +92,24 @@
 | 29 | 다리를 지나는 트럭 | [42583](https://programmers.co.kr/learn/courses/30/lessons/42583) | [🔍](./Level_2/42583.py) | ☑ |
 | 30 | H-Index | [42747](https://programmers.co.kr/learn/courses/30/lessons/42747) | [🔍](./Level_2/42747.py) | ☑ |
 | 31 | 카펫 | [42842](https://programmers.co.kr/learn/courses/30/lessons/42842) | [🔍](./Level_2/42842.py) | ☑ |
-| 32 | 큰 수 만들기 | [42883](https://programmers.co.kr/learn/courses/30/lessons/42883) | [🔍](./Level_2/42883.py) | ❌ |
-| 33 | 피로도 | [87946](https://programmers.co.kr/learn/courses/30/lessons/87946) | [🔍](./Level_2/87946.py) | ❌ |
-| 34 | 프렌즈4블록 | [17679](https://programmers.co.kr/learn/courses/30/lessons/17679) | [🔍](./Level_2/17679.py) | ❌ |
-| 35 | 2개 이하로 다른 비트 | [77885](https://programmers.co.kr/learn/courses/30/lessons/77885) | [🔍](./Level_2/77885.py) | ❌ |
-| 36 | 삼각 달팽이 | [68645](https://programmers.co.kr/learn/courses/30/lessons/68645) | [🔍](./Level_2/68645.py) | ❌ |
-| 37 | 영어 끝말잇기 | [12981](https://programmers.co.kr/learn/courses/30/lessons/12981) | [🔍](./Level_2/12981.py) | ❌ |
+| 32 | 큰 수 만들기 | [42883](https://programmers.co.kr/learn/courses/30/lessons/42883) | [🔍](./Level_2/42883.py) | ☑ |
+| 33 | 피로도 | [87946](https://programmers.co.kr/learn/courses/30/lessons/87946) | [🔍](./Level_2/87946.py) | ☑ |
+| 34 | 프렌즈4블록 | [17679](https://programmers.co.kr/learn/courses/30/lessons/17679) | [🔍](./Level_2/17679.py) | ☑ |
+| 35 | 2개 이하로 다른 비트 | [77885](https://programmers.co.kr/learn/courses/30/lessons/77885) | [🔍](./Level_2/77885.py) | ☑ |
+| 36 | 삼각 달팽이 | [68645](https://programmers.co.kr/learn/courses/30/lessons/68645) | [🔍](./Level_2/68645.py) | ☑ |
+| 37 | 영어 끝말잇기 | [12981](https://programmers.co.kr/learn/courses/30/lessons/12981) | [🔍](./Level_2/12981.py) | ☑ |
 | 38 | 주식가격 | [42584](https://programmers.co.kr/learn/courses/30/lessons/42584) | [🔍](./Level_2/42584.py) | ☑ |
 | 39 | 구명보트 | [42885](https://programmers.co.kr/learn/courses/30/lessons/42885) | [🔍](./Level_2/42885.py) | ☑ |
-| 40 | 교점에 별 만들기 | [87377](https://programmers.co.kr/learn/courses/30/lessons/87377) | [🔍](./Level_2/87377.py) | ❌ |
-| 41 | 전력망을 둘로 나누기 | [86971](https://programmers.co.kr/learn/courses/30/lessons/86971) | [🔍](./Level_2/86971.py) | ❌ |
-| 42 | 모음사전 | [84512](https://programmers.co.kr/learn/courses/30/lessons/84512) | [🔍](./Level_2/84512.py) | ❌ |
-| 43 | 캐시 | [17680](https://programmers.co.kr/learn/courses/30/lessons/17680) | [🔍](./Level_2/17680.py) | ❌ |
-| 44 | 이진 변환 반복하기 | [70129](https://programmers.co.kr/learn/courses/30/lessons/70129) | [🔍](./Level_2/70129.py) | ❌ |
-| 45 | 점프와 순간 이동 | [12980](https://programmers.co.kr/learn/courses/30/lessons/12980) | [🔍](./Level_2/12980.py) | ❌ |
-| 46 | n^2 배열 자르기 | [87390](https://programmers.co.kr/learn/courses/30/lessons/87390) | [🔍](./Level_2/87390.py) | ❌ |
-| 47 | 쿼드압축 후 개수 세기 | [68936](https://programmers.co.kr/learn/courses/30/lessons/68936) | [🔍](./Level_2/68936.py) | ❌ |
+| 40 | 교점에 별 만들기 | [87377](https://programmers.co.kr/learn/courses/30/lessons/87377) | [🔍](./Level_2/87377.py) | ☑ |
+| 41 | 전력망을 둘로 나누기 | [86971](https://programmers.co.kr/learn/courses/30/lessons/86971) | [🔍](./Level_2/86971.py) | ☑ |
+| 42 | 모음사전 | [84512](https://programmers.co.kr/learn/courses/30/lessons/84512) | [🔍](./Level_2/84512.py) | ☑ |
+| 43 | 캐시 | [17680](https://programmers.co.kr/learn/courses/30/lessons/17680) | [🔍](./Level_2/17680.py) | ☑ |
+| 44 | 이진 변환 반복하기 | [70129](https://programmers.co.kr/learn/courses/30/lessons/70129) | [🔍](./Level_2/70129.py) | ☑ |
+| 45 | 점프와 순간 이동 | [12980](https://programmers.co.kr/learn/courses/30/lessons/12980) | [🔍](./Level_2/12980.py) | ☑ |
+| 46 | n^2 배열 자르기 | [87390](https://programmers.co.kr/learn/courses/30/lessons/87390) | [🔍](./Level_2/87390.py) | ☑ |
+| 47 | 쿼드압축 후 개수 세기 | [68936](https://programmers.co.kr/learn/courses/30/lessons/68936) | [🔍](./Level_2/68936.py) | ☑ |
 | 48 | 스킬트리 | [49993](https://programmers.co.kr/learn/courses/30/lessons/49993) | [🔍](./Level_2/49993.py) | ☑ |
-| 49 | 방문 길이 | [49994](https://programmers.co.kr/learn/courses/30/lessons/49994) | [🔍](./Level_2/49994.py) | ❌ |
+| 49 | 방문 길이 | [49994](https://programmers.co.kr/learn/courses/30/lessons/49994) | [🔍](./Level_2/49994.py) | ☑ |
 | 50 | 방금그곡 | [17683](https://programmers.co.kr/learn/courses/30/lessons/17683) | [🔍](./Level_2/17683.py) | ❌ |
 | 50 | 가장 큰 정사각형 찾기 | [12905](https://programmers.co.kr/learn/courses/30/lessons/12905) | [🔍](./Level_2/12905.py) | ❌ |
 | 51 | 압축 | [17684](https://programmers.co.kr/learn/courses/30/lessons/17684) | [🔍](./Level_2/17684.py) | ❌ |
