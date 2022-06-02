@@ -30,7 +30,7 @@ def solution(m, musicinfos):
 
         if m in music:
             answer.append([time, idx, title])
-            
+
     answer = sorted(answer, key=lambda x: (-x[0], x[1]))
     if not answer:
         return "(None)"
