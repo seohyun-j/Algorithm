@@ -11,6 +11,7 @@ def solution(n):
                 break
     return answer
 
+
 # 수학적 접근
 '''
     a + (a + 1) + (a + 2) + ... + (a + k - 1) = k * (2a + k - 1) / 2 = n
@@ -19,6 +20,8 @@ def solution(n):
     a가 자연수이려면 n/k와 (1 - k)/2가 정수여야함
     따라서, (1 - k)가 짝수이려면 k는 홀수이고, k는 n의 약수여야함
 '''
+
+
 def other_solution(n):
     return len([i for i in range(1, n + 1, 2) if n % i == 0])
 
