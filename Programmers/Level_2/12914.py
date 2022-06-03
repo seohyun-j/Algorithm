@@ -8,11 +8,8 @@ def solution(n):
     lmt = n // 2
     for i in range(1, lmt + 1):
         cnt1 = n - 2 * i
-        if cnt1 == 0:
-            answer += 1
-        else:
-            k = math.factorial(cnt1 + i) // (math.factorial(i) * math.factorial(cnt1))
-            answer += k
+        k = math.factorial(cnt1 + i) // (math.factorial(i) * math.factorial(cnt1))
+        answer += k
 
     return answer % 1234567
 
