@@ -8,4 +8,19 @@ def solution(land):
     return max(land[-1])
 
 
+def false_solution(land):
+    answer = 0
+    col = 5
+    for i in land:
+        tmp = sorted(i, reverse=True)
+        max_tmp = i.index(tmp[0])
+        if col == max_tmp:
+            answer += tmp[1]
+            col = i.index(tmp[1])
+        else:
+            answer += tmp[0]
+            col = max_tmp
+    return answer
+
+
 print(solution(l))
