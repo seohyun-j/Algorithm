@@ -120,15 +120,16 @@
 | 56 | 땅따먹기 | [12913](https://programmers.co.kr/learn/courses/30/lessons/12913) | [🔍](./Level_2/12913.py) | ❌ |
 | 57 | 멀리 뛰기 | [12914](https://programmers.co.kr/learn/courses/30/lessons/12914) | [🔍](./Level_2/12914.py) | ❌ |
 | 58 | k진수에서 소수 개수 구하기 | [92335](https://programmers.co.kr/learn/courses/30/lessons/92335) | [🔍](./Level_2/92335.py) | ❌ |
-| 59 | 숫자의 표현 | [12924](https://programmers.co.kr/learn/courses/30/lessons/12924) | [🔍](./Level_2/12924.py) | ❌ |
-| 60 | 주차 요금 계산 | [92341](https://programmers.co.kr/learn/courses/30/lessons/92341) | [🔍](./Level_2/92341.py) | ☑ |
-| 61 | 최댓값과 최솟값 | [12939](https://programmers.co.kr/learn/courses/30/lessons/12939) | [🔍](./Level_2/12939.py) | ☑ |
-| 62 | 최솟값 만들기 | [12941](https://programmers.co.kr/learn/courses/30/lessons/12941) | [🔍](./Level_2/12941.py) | ☑ |
-| 63 | 피보나치 수 | [12945](https://programmers.co.kr/learn/courses/30/lessons/12945) | [🔍](./Level_2/12945.py) | ❌ |
-| 64 | 행렬의 곱셈 | [12949](https://programmers.co.kr/learn/courses/30/lessons/12949) | [🔍](./Level_2/12949.py) | ❌ |
-| 65 | JadenCase 문자열 만들기 | [12951](https://programmers.co.kr/learn/courses/30/lessons/12951) | [🔍](./Level_2/12951.py) | ☑ |
-| 66 | N개의 최소공배수 | [12953](https://programmers.co.kr/learn/courses/30/lessons/12953) | [🔍](./Level_2/12953.py) | ❌ |
-| 67 | 양궁대회 | [92342](https://programmers.co.kr/learn/courses/30/lessons/92342) | [🔍](./Level_2/92342.py) | ❌ |
+| 59 | 숫자 블록 | [12923](https://programmers.co.kr/learn/courses/30/lessons/12923) | [🔍](./Level_2/12923.py) | ❌ |
+| 60 | 숫자의 표현 | [12924](https://programmers.co.kr/learn/courses/30/lessons/12924) | [🔍](./Level_2/12924.py) | ❌ |
+| 61 | 주차 요금 계산 | [92341](https://programmers.co.kr/learn/courses/30/lessons/92341) | [🔍](./Level_2/92341.py) | ☑ |
+| 62 | 최댓값과 최솟값 | [12939](https://programmers.co.kr/learn/courses/30/lessons/12939) | [🔍](./Level_2/12939.py) | ☑ |
+| 63 | 최솟값 만들기 | [12941](https://programmers.co.kr/learn/courses/30/lessons/12941) | [🔍](./Level_2/12941.py) | ☑ |
+| 64 | 피보나치 수 | [12945](https://programmers.co.kr/learn/courses/30/lessons/12945) | [🔍](./Level_2/12945.py) | ❌ |
+| 65 | 행렬의 곱셈 | [12949](https://programmers.co.kr/learn/courses/30/lessons/12949) | [🔍](./Level_2/12949.py) | ❌ |
+| 66 | JadenCase 문자열 만들기 | [12951](https://programmers.co.kr/learn/courses/30/lessons/12951) | [🔍](./Level_2/12951.py) | ☑ |
+| 67 | N개의 최소공배수 | [12953](https://programmers.co.kr/learn/courses/30/lessons/12953) | [🔍](./Level_2/12953.py) | ❌ |
+| 68 | 양궁대회 | [92342](https://programmers.co.kr/learn/courses/30/lessons/92342) | [🔍](./Level_2/92342.py) | ❌ |
 
 ### 3️⃣ Level 3
 | **번호** | **문제 이름** | **문제 번호** | **코드** | **풀이여부** |
