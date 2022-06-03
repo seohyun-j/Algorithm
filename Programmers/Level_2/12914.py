@@ -17,6 +17,7 @@ def solution(n):
     return answer % 1234567
 
 
+# 아래 방법은 재귀함수를 이용한 방법인데, 시간초과에서 걸려버림
 def other_solution(n):
     if n == 1:
         return 1
