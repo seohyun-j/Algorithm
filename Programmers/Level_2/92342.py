@@ -101,3 +101,5 @@ print(simulation_solution(n0, info0))
 print(simulation_solution(n1, info1))
 print(simulation_solution(n2, info2))
 print(simulation_solution(n3, info3))
+
+# BFS가 Simulation(중복조합)보다 효율적임
