@@ -4,6 +4,7 @@ import math
 def solution(n, k):
     answer = []
     arr = [i + 1 for i in range(n)]
+
     k -= 1
     while arr:
         idx = k // math.factorial(n - 1)
