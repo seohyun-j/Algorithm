@@ -3,7 +3,6 @@ import sys
 input = sys.stdin.readline
 
 enter = set()
-
 for i in range(int(input())):
     name, state = input().split()
     if state == 'enter':
