@@ -134,7 +134,7 @@
 | 70 | N개의 최소공배수 | [12953](https://programmers.co.kr/learn/courses/30/lessons/12953) | [🔍](./Level_2/12953.py) | ☑ |
 | 71 | 양궁대회 | [92342](https://programmers.co.kr/learn/courses/30/lessons/92342) | [🔍](./Level_2/92342.py) | ☑ |
 | 72 | 2 x n 타일링 | [12900](https://programmers.co.kr/learn/courses/30/lessons/12900) | [🔍](./Level_2/12900.py) | ☑ |
-| 73 | 2 x n 타일링 | [12902](https://programmers.co.kr/learn/courses/30/lessons/12902) | [🔍](./Level_2/12902.py) | ☑ |
+| 73 | 3 x n 타일링 | [12902](https://programmers.co.kr/learn/courses/30/lessons/12902) | [🔍](./Level_2/12902.py) | ☑ |
 
 
 ### 3️⃣ Level 3
