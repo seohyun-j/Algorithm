@@ -15,7 +15,7 @@
 | 11 | 완주하지 못한 선수 | [42576](https://programmers.co.kr/learn/courses/30/lessons/42576) | [🔍](./Level_1/42576.py) | ☑ |
 | 12 | K번째 수 |[42748](https://programmers.co.kr/learn/courses/30/lessons/42748) | [🔍](./Level_1/42748.py) | ☑ |
 | 13 | 모의고사 | [42840](https://programmers.co.kr/learn/courses/30/lessons/42840) | [🔍](./Level_1/42840.py) | ☑ |
-| 14 | 체육복 | [42862](https://programmers.co.kr/learn/courses/30/lessons/42862)| [🔍](./Level_1/42862.py) | ☑ |
+| 14 | 체육복 | [42862](https://programmers.co.kr/learn/courses/30/lessons/42862) | [🔍](./Level_1/42862.py) | ☑ |
 | 15 | 폰켓몬 | [1845](https://programmers.co.kr/learn/courses/30/lessons/1845) | [🔍](./Level_1/1845.py) | ☑ |
 | 16 | 실패율 | [42889](https://programmers.co.kr/learn/courses/30/lessons/42889) | [🔍](./Level_1/42889.py) | ☑ |
 | 17 | 약수의 개수와 덧셈 | [77884](https://programmers.co.kr/learn/courses/30/lessons/77884) | [🔍](./Level_1/77884.py) | ☑ |
@@ -130,11 +130,11 @@
 | 66 | 하노이의 탑 | [12946](https://programmers.co.kr/learn/courses/30/lessons/12946) | [🔍](./Level_2/12946.py) | ☑ |
 | 67 | 행렬의 곱셈 | [12949](https://programmers.co.kr/learn/courses/30/lessons/12949) | [🔍](./Level_2/12949.py) | ☑ |
 | 68 | JadenCase 문자열 만들기 | [12951](https://programmers.co.kr/learn/courses/30/lessons/12951) | [🔍](./Level_2/12951.py) | ☑ |
-| 69 | N-Queen | [12952](https://programmers.co.kr/learn/courses/30/lessons/12952) | [🔍](./Level_2/12952.py) | ❌ |
-| 70 | N개의 최소공배수 | [12953](https://programmers.co.kr/learn/courses/30/lessons/12953) | [🔍](./Level_2/12953.py) | ❌ |
-| 71 | 양궁대회 | [92342](https://programmers.co.kr/learn/courses/30/lessons/92342) | [🔍](./Level_2/92342.py) | ❌ |
-| 72 | 2 x n 타일링 | [12900](https://programmers.co.kr/learn/courses/30/lessons/12900) | [🔍](./Level_2/12900.py) | ❌ |
-| 73 | 2 x n 타일링 | [12902](https://programmers.co.kr/learn/courses/30/lessons/12902) | [🔍](./Level_2/12902.py) | ❌ |
+| 69 | N-Queen | [12952](https://programmers.co.kr/learn/courses/30/lessons/12952) | [🔍](./Level_2/12952.py) | ☑ |
+| 70 | N개의 최소공배수 | [12953](https://programmers.co.kr/learn/courses/30/lessons/12953) | [🔍](./Level_2/12953.py) | ☑ |
+| 71 | 양궁대회 | [92342](https://programmers.co.kr/learn/courses/30/lessons/92342) | [🔍](./Level_2/92342.py) | ☑ |
+| 72 | 2 x n 타일링 | [12900](https://programmers.co.kr/learn/courses/30/lessons/12900) | [🔍](./Level_2/12900.py) | ☑ |
+| 73 | 2 x n 타일링 | [12902](https://programmers.co.kr/learn/courses/30/lessons/12902) | [🔍](./Level_2/12902.py) | ☑ |
 
 
 ### 3️⃣ Level 3
