@@ -11,3 +11,18 @@
 | 07 | 스택 | 백준 | 키로거 | [5397](https://programmers.co.kr/learn/courses/30/lessons/5397) | [🔍](./Data_Structure/5397.py) | ☑ |
 | 08 | 스택 | 백준 | 후위 표기식2 | [1935](https://programmers.co.kr/learn/courses/30/lessons/1935) | [🔍](./Data_Structure/1935.py) | ☑ |
 | 09 | 스택 | 백준 | N번째 큰 수 | [2075](https://programmers.co.kr/learn/courses/30/lessons/2075) | [🔍](./Data_Structure/2075.py) | ☑ |
+
+
+## 2️⃣ Brute Force
+| **번호** | **구분** | **문제 시행처** | **문제 이름** | **문제 번호** | **코드** | **풀이여부** |
+|:--:|:------------------|:-------:|:-----:|:-----:|
+| 01 | 조합 | 백준 | 백설 공주와 일곱 난쟁이 | [3040](https://programmers.co.kr/learn/courses/30/lessons/3040) | [🔍](./Data_Structure/3040.py) | ☑ |
+| 02 | 완전 탐색 | 백준 | 유레카 이론 | [10448](https://programmers.co.kr/learn/courses/30/lessons/10448) | [🔍](./Data_Structure/10448.py) | ☑ |
+| 03 | 완전 탐색 | 백준 | 사탕 게임 | [3085](https://programmers.co.kr/learn/courses/30/lessons/3085) | [🔍](./Data_Structure/3085.py) | ☑ |
+
+
+## 2️⃣ Greedy Algorithm
+| **번호** | **구분** | **문제 시행처** | **문제 이름** | **문제 번호** | **코드** | **풀이여부** |
+|:--:|:------------------|:-------:|:-----:|:-----:|
+| 01 | 그리디 | 백준 | 회의실 배정 | [1931](https://programmers.co.kr/learn/courses/30/lessons/1931) | [🔍](./Data_Structure/1931.py) | ☑ |
+| 02 | 그리디 | 백준 | 수리공 항승 | [1449](https://programmers.co.kr/learn/courses/30/lessons/1449) | [🔍](./Data_Structure/1449.py) | ☑ |

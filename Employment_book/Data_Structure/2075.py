@@ -1,9 +1,12 @@
-arr = []
+import heapq
+hq = []
 n = int(input())
 
-for i in range(n):
-    tmp = list(map(int, input().split()))
-    arr.extend(tmp)
+for _ in range(n):
+    for i in map(int, input().split()):
+        if len(hq) >= n:
+            heapq.heappushpop(hq, i)
+        else:
+            heapq.heappush(hq, i)
 
-arr.sort()
-print(arr[n-1])
+print(heapq.heappop(hq))
