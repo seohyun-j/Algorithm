@@ -9,4 +9,5 @@ for _ in range(n):
         else:
             heapq.heappush(hq, i)
 
+
 print(heapq.heappop(hq))
