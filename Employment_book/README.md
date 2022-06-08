@@ -16,9 +16,9 @@
 ## 2️⃣ Brute Force
 | **번호** | **구분** | **문제 시행처** | **문제 이름** | **문제 번호** | **코드** | **풀이여부** |
 |:--:|:------------------|:-------:|:-----:|:-----:|:-----:|:-----:|
-| 01 | 조합 | 백준 | 백설 공주와 일곱 난쟁이 | [3040](https://programmers.co.kr/learn/courses/30/lessons/3040) | [🔍](./Data_Structure/3040.py) | ☑ |
-| 02 | 완전 탐색 | 백준 | 유레카 이론 | [10448](https://programmers.co.kr/learn/courses/30/lessons/10448) | [🔍](./Data_Structure/10448.py) | ☑ |
-| 03 | 완전 탐색 | 백준 | 사탕 게임 | [3085](https://programmers.co.kr/learn/courses/30/lessons/3085) | [🔍](./Data_Structure/3085.py) | ☑ |
+| 01 | 조합 | 백준 | 백설 공주와 일곱 난쟁이 | [3040](https://programmers.co.kr/learn/courses/30/lessons/3040) | [🔍](./Brute_Force/3040.py) | ☑ |
+| 02 | 완전 탐색 | 백준 | 유레카 이론 | [10448](https://programmers.co.kr/learn/courses/30/lessons/10448) | [🔍](./Brute_Force/10448.py) | ☑ |
+| 03 | 완전 탐색 | 백준 | 사탕 게임 | [3085](https://programmers.co.kr/learn/courses/30/lessons/3085) | [🔍](./Brute_Force/3085.py) | ☑ |
 
 
 ## 3️⃣ Greedy Algorithm
