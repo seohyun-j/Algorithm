@@ -24,8 +24,8 @@
 ## 3️⃣ Greedy Algorithm
 | **번호** | **구분** | **문제 시행처** | **문제 이름** | **문제 번호** | **코드** | **풀이여부** |
 |:--:|:------------------|:-------:|:-----:|:-----:|:-----:|:-----:|
-| 01 | 그리디 | 백준 | 회의실 배정 | [1931](https://programmers.co.kr/learn/courses/30/lessons/1931) | [🔍](./Data_Structure/1931.py) | ☑ |
-| 02 | 그리디 | 백준 | 수리공 항승 | [1449](https://programmers.co.kr/learn/courses/30/lessons/1449) | [🔍](./Data_Structure/1449.py) | ☑ |
+| 01 | 그리디 | 백준 | 회의실 배정 | [1931](https://programmers.co.kr/learn/courses/30/lessons/1931) | [🔍](./Greedy/1931.py) | ☑ |
+| 02 | 그리디 | 백준 | 수리공 항승 | [1449](https://programmers.co.kr/learn/courses/30/lessons/1449) | [🔍](./Greedy/1449.py) | ☑ |
 
 
 ## 4️⃣ DFS, BFS, Backtracking
