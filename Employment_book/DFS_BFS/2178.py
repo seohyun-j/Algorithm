@@ -23,10 +23,6 @@ while queue:
         nx = x + dx[i]
         ny = y + dy[i]
         nd = cnt + 1
-        if nx < 0 or nx >= n or ny < 0 or ny >= m:
-            continue
-        if maps[nx][ny] == 0:
-            continue
-        if maps[ny][nx] == 1 and not visited[ny][nx]:
+        if 0 <= nx < m and 0 <= ny < n and maps[ny][nx] == 1 and not visited[ny][nx]:
             visited[ny][nx] = True
             queue.append((ny, nx, nd))
