@@ -31,8 +31,13 @@
 ## 4️⃣ DFS, BFS, Backtracking
 | **번호** | **구분** | **문제 시행처** | **문제 이름** | **문제 번호** | **코드** | **풀이여부** |
 |:--:|:------------------|:-------:|:-----:|:-----:|:-----:|:-----:|
-| 01 | 그리디 | 백준 | 회의실 배정 | [1931](https://programmers.co.kr/learn/courses/30/lessons/1931) | [🔍](./Data_Structure/1931.py) | ☑ |
-| 02 | 그리디 | 백준 | 수리공 항승 | [1449](https://programmers.co.kr/learn/courses/30/lessons/1449) | [🔍](./Data_Structure/1449.py) | ☑ |
+| 01 | DFS | 백준 | 연결 요소의 개수 | [11724](https://programmers.co.kr/learn/courses/30/lessons/11724) | [🔍](./DFS_BFS/11724.py) | ☑ |
+| 02 | BFS | 백준 | 미로 탐색 | [2178](https://programmers.co.kr/learn/courses/30/lessons/2178) | [🔍](./DFS_BFS/2178.py) | ☑ |
+| 03 | Backtracking | 백준 | 알파벳 | [1987](https://programmers.co.kr/learn/courses/30/lessons/1987) | [🔍](./DFS_BFS/1987.py) | ☑ |
+| 04 | 그리디 | 백준 | 음식물 피하기 | [1743](https://programmers.co.kr/learn/courses/30/lessons/1743) | [🔍](./DFS_BFS/1743.py) | ☑ |
+| 05 | 그리디 | 백준 | 나이트의 이동 | [7562](https://programmers.co.kr/learn/courses/30/lessons/7562) | [🔍](./DFS_BFS/7562.py) | ☑ |
+| 06 | Backtracking | 백준 | N-Queen | [9663](https://programmers.co.kr/learn/courses/30/lessons/9663) | [🔍](./DFS_BFS/9663.py) | ☑ |
+
 
 
 ## 5️⃣ Binary Search
