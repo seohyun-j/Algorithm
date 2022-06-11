@@ -5,11 +5,11 @@ for _ in range(int(input())):
     sy, sx = map(int, input().split())
     ey, ex = map(int, input().split())
 
-    arr = [[False] * n for _ in range(n)]
-    arr[sy][sx] = True
-
     dy = [2, 2, -2, -2, 1, 1, -1, -1]
     dx = [1, -1, 1, -1, 2, -2, 2, -2]
+
+    arr = [[False] * n for _ in range(n)]
+    arr[sy][sx] = True
 
     queue = deque()
     queue.append((sy, sx, 0))
