@@ -43,8 +43,8 @@
 ## 5️⃣ Binary Search
 | **번호** | **구분** | **문제 시행처** | **문제 이름** | **문제 번호** | **코드** | **풀이여부** |
 |:--:|:------------------|:-------:|:-----:|:-----:|:-----:|:-----:|
-| 01 | 그리디 | 백준 | 회의실 배정 | [1931](https://programmers.co.kr/learn/courses/30/lessons/1931) | [🔍](./Binary_Search/1931.py) | ☑ |
-| 02 | 그리디 | 백준 | 수리공 항승 | [1449](https://programmers.co.kr/learn/courses/30/lessons/1449) | [🔍](./Data_Structure/1449.py) | ☑ |
+| 01 | 파라메트릭 | 백준 | 나무 자르기 | [2805](https://programmers.co.kr/learn/courses/30/lessons/2805) | [🔍](./Binary_Search/2805.py) | ☑ |
+| 02 | 이분탐색 | 백준 | 숫자 카드2 | [10816](https://programmers.co.kr/learn/courses/30/lessons/10816) | [🔍](./Data_Structure/10816.py) | ☑ |
 
 
 ## 6️⃣ Dynamic Programming
