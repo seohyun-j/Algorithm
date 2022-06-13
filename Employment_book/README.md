@@ -50,5 +50,10 @@
 ## 6️⃣ Dynamic Programming
 | **번호** | **구분** | **문제 시행처** | **문제 이름** | **문제 번호** | **코드** | **풀이여부** |
 |:--:|:------------------|:-------:|:-----:|:-----:|:-----:|:-----:|
-| 01 | DP | 백준 | 회의실 배정 | [1931](https://programmers.co.kr/learn/courses/30/lessons/1931) | [🔍](./DP/1931.py) | ☑ |
-| 02 | 그리디 | 백준 | 수리공 항승 | [1449](https://programmers.co.kr/learn/courses/30/lessons/1449) | [🔍](./Data_Structure/1449.py) | ☑ |
+| 01 | DP | 백준 | 1로 만들기 | [1463](https://programmers.co.kr/learn/courses/30/lessons/1463) | [🔍](./DP/1463.py) | ☑ |
+| 02 | DP | 백준 | 2xn 타일링 | [11726](https://programmers.co.kr/learn/courses/30/lessons/11726) | [🔍](./DP/11726.py) | ☑ |
+| 03 | DP | 백준 | 스티커 | [9465](https://programmers.co.kr/learn/courses/30/lessons/9465) | [🔍](./DP/9465.py) | ☑ |
+| 04 | DP | 백준 | 기타 레슨 | [2343](https://programmers.co.kr/learn/courses/30/lessons/2343) | [🔍](./DP/2343.py) | ☑ |
+| 05 | DP | 백준 | 제곱수의 합 | [1699](https://programmers.co.kr/learn/courses/30/lessons/1699) | [🔍](./DP/1699.py) | ☑ |
+| 05 | DP | 백준 | 가장 큰 증가 부분 순열 | [11055](https://programmers.co.kr/learn/courses/30/lessons/11055) | [🔍](./DP/11055.py) | ☑ |
+
