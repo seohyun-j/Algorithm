@@ -1,35 +1,22 @@
+import sys
+
+input = sys.stdin.readline
+
 n, p = map(int, input().split())
-arr = []
-for _ in range(n):
-    arr.append(list(map(int, input().split())))
-
-print(arr)
-tmp = []
-chk = 0
+arr = [[] for _ in range(7)]
 answer = 0
-for i in arr:
-    idx, val = i
-    tmp.sort()
-    if chk != idx:
-        chk = idx
-        answer += len(tmp)
-        if tmp:
-            tmp = []
-        else:
-            tmp.append(val)
-    else:
-        if max(tmp) == val:
-            continue
-        elif max(tmp) < val:
-            answer += 1
-            tmp.append(val)
-        else:
-            while max(tmp) > val:
-                answer += 1
-                tmp.pop()
-                print(tmp)
 
-            answer += 1
-            tmp.append(val)
+for _ in range(n):
+    line, tmp = map(int, input().split())
+
+    while arr[line] and arr[line][-1] > tmp:
+        arr[line].pop()
+        answer += 1
+
+    if arr[line] and arr[line][-1] == tmp:
+        continue
+
+    arr[line].append(tmp)
+    answer += 1
 
 print(answer)
