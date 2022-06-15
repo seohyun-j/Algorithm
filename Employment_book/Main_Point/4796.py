@@ -5,6 +5,6 @@ while True:
         break
 
     t += 1
-    day = L * V // P + min(V % P, L)
+    day = V // P * L + min(V % P, L)
 
-    print("Case " + str(t) + ': ' + str(day))
+    print(f'Case {t}: {day}')
