@@ -1,5 +1,4 @@
 import sys
-
 input = sys.stdin.readline
 
 n, p = map(int, input().split())
