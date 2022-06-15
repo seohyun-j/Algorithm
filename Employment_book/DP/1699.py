@@ -9,6 +9,8 @@ for i in range(4, n + 1):
         if dp[i] > dp[i - j * j] + 1:
             dp[i] = dp[i - j * j] + 1
 
+        print(dp, i, j)
+
 
 print(dp[n])
 
