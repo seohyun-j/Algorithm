@@ -140,7 +140,7 @@
 ### 3️⃣ Level 3
 | **번호** | **문제 이름** | **문제 번호** | **코드** | **풀이여부** |
 |:--:|:------------------|:-------:|:-----:|:-----:|
-| 01 | 추석 트래픽 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 01 | 추석 트래픽 | [17676](https://programmers.co.kr/learn/courses/30/lessons/17676) | [🔍](./Level_3/17676.py) | ❌ |
 | 02 | N으로 표현 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
 | 03 | 입국심사 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
 | 04 | 가장 먼 노드 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
