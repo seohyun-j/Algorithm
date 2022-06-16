@@ -1,6 +1,6 @@
 n, m = map(int, input().split())
 arr = [list(map(int, input())) for _ in range(n)]
-answer = 1
+answer = max(arr[0])
 
 for i in range(1, n):
     for j in range(1, m):
