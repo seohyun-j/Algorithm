@@ -67,8 +67,8 @@
 | 04 | 스택 | 백준 | 케빈 베이컨의 6단계 법칙 | [1389](https://www.acmicpc.net/problem/1389) | [🔍](./Main_Point/1389.py) | ☑ |
 | 05 | 스택 | 백준 | 가장 큰 정사각형 | [1915](https://www.acmicpc.net/problem/1915) | [🔍](./Main_Point/1915.py) | ☑ |
 | 06 | 스택 | 백준 | 중앙값 구하기 | [2696](https://www.acmicpc.net/problem/2696) | [🔍](./Main_Point/2696.py) | ☑ |
-| 07 | 스택 | 백준 | 팰린드롬 만들기 | [14888](https://www.acmicpc.net/problem/14888) | [🔍](./Main_Point/14888.py) | ☑ |
-| 08 | 스택 | 백준 | 연산자 끼워넣기 | [1213](https://www.acmicpc.net/problem/1213) | [🔍](./Main_Point/1213.py) | ☑ |
+| 07 | 스택 | 백준 | 연산자 끼워넣기 | [14888](https://www.acmicpc.net/problem/14888) | [🔍](./Main_Point/14888.py) | ☑ |
+| 08 | 스택 | 백준 | 팰린드롬 만들기 | [1213](https://www.acmicpc.net/problem/1213) | [🔍](./Main_Point/1213.py) | ☑ |
 | 09 | 스택 | 백준 | 오큰수 | [17298](https://www.acmicpc.net/problem/17298) | [🔍](./Main_Point/17298.py) | ☑ |
 | 10 | 스택 | 백준 | 사전 | [1256](https://www.acmicpc.net/problem/1256) | [🔍](./Main_Point/1256.py) | ☑ |
 | 11 | 스택 | 백준 | 수열 정렬 | [1015](https://www.acmicpc.net/problem/1015) | [🔍](./Main_Point/1015.py) | ☑ |
