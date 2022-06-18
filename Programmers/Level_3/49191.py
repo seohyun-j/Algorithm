@@ -7,8 +7,8 @@ def solution(n, results):
     lose_dic = defaultdict(set)
 
     for win, lose in results:
-        lose_dic[lose].add(win)
-        win_dic[win].add(lose)
+        win_dic[lose].add(win)
+        lose_dic[win].add(lose)
 
     for i in range(1, n + 1):
         for win in win_dic[i]:
