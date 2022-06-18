@@ -144,12 +144,12 @@
 | 02 | N으로 표현 | [42895](https://programmers.co.kr/learn/courses/30/lessons/42895) | [🔍](./Level_3/42895.py) | ☑ |
 | 03 | 입국심사 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/43238.py) | ☑ |
 | 04 | 가장 먼 노드 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/49189.py) | ☑ |
-| 05 | 디스크 컨트롤러 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 06 | 정수 삼각형 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 07 | 네트워크 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 08 | 순위 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 09 | 다단계 칫솔 판매 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 10 | 자물쇠와 열쇠 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 05 | 디스크 컨트롤러 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/42627.py) | ☑ |
+| 06 | 정수 삼각형 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/43105.py) | ☑ |
+| 07 | 네트워크 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/43162.py) | ☑ |
+| 08 | 순위 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/49191.py) | ☑ |
+| 09 | 다단계 칫솔 판매 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/77486.py) | ☑ |
+| 10 | 자물쇠와 열쇠 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/60059.py) | ☑ |
 | 11 | 셔틀버스 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
 | 12 | 표 편집 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
 | 13 | 보석 쇼핑 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
