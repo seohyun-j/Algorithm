@@ -1,11 +1,10 @@
 # 내가 풀이한 방법으로 시간초과에 걸림(완전탐색)
 def solution(enroll, referral, seller, amount):
     dic = {i: 0 for i in enroll}
-    amount = [i * 100 for i in amount]
     for name, key in zip(seller, amount):
         idx = enroll.index(name)
-        val = key // 10
-        dic[name] += (key - val)
+        val = key * 10
+        dic[name] += (key * 100 - val)
 
         if referral[idx] != '-':
             dic[referral[idx]] += val
