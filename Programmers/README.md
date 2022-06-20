@@ -142,15 +142,15 @@
 |:--:|:------------------|:-------:|:-----:|:-----:|
 | 01 | 추석 트래픽 | [17676](https://programmers.co.kr/learn/courses/30/lessons/17676) | [🔍](./Level_3/17676.py) | ☑ |
 | 02 | N으로 표현 | [42895](https://programmers.co.kr/learn/courses/30/lessons/42895) | [🔍](./Level_3/42895.py) | ☑ |
-| 03 | 입국심사 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/43238.py) | ☑ |
-| 04 | 가장 먼 노드 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/49189.py) | ☑ |
-| 05 | 디스크 컨트롤러 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/42627.py) | ☑ |
-| 06 | 정수 삼각형 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/43105.py) | ☑ |
-| 07 | 네트워크 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/43162.py) | ☑ |
-| 08 | 순위 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/49191.py) | ☑ |
-| 09 | 다단계 칫솔 판매 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/77486.py) | ☑ |
-| 10 | 자물쇠와 열쇠 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/60059.py) | ☑ |
-| 11 | 셔틀버스 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 03 | 입국심사 | [43238](https://programmers.co.kr/learn/courses/30/lessons/43238) | [🔍](./Level_3/43238.py) | ☑ |
+| 04 | 가장 먼 노드 | [49189](https://programmers.co.kr/learn/courses/30/lessons/49189) | [🔍](./Level_3/49189.py) | ☑ |
+| 05 | 디스크 컨트롤러 | [42627](https://programmers.co.kr/learn/courses/30/lessons/42627) | [🔍](./Level_3/42627.py) | ☑ |
+| 06 | 정수 삼각형 | [43105](https://programmers.co.kr/learn/courses/30/lessons/43105) | [🔍](./Level_3/43105.py) | ☑ |
+| 07 | 네트워크 | [43162](https://programmers.co.kr/learn/courses/30/lessons/43162) | [🔍](./Level_3/43162.py) | ☑ |
+| 08 | 순위 | [49191](https://programmers.co.kr/learn/courses/30/lessons/49191) | [🔍](./Level_3/49191.py) | ☑ |
+| 09 | 다단계 칫솔 판매 | [77486](https://programmers.co.kr/learn/courses/30/lessons/77486) | [🔍](./Level_3/77486.py) | ☑ |
+| 10 | 자물쇠와 열쇠 | [60059](https://programmers.co.kr/learn/courses/30/lessons/60059) | [🔍](./Level_3/60059.py) | ☑ |
+| 11 | 셔틀버스 | [17678](https://programmers.co.kr/learn/courses/30/lessons/17678) | [🔍](./Level_3/17678.py) | ❌ |
 | 12 | 표 편집 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
 | 13 | 보석 쇼핑 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
 | 14 | 불량 사용자 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
