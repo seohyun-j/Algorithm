@@ -18,10 +18,16 @@ def solution(n, t, m, timetable):
 
     for i in range(n):
         cnt = 0
+        print(bus[i], timetable)
         for j in timetable:
-            if bus[i][0] >= j[0] and bus[i][1] >= j[1]:
+            print(timetable)
+            if bus[i][0] > j[0]:
                 cnt += 1
                 lh, lm = timetable.pop(0)
+            elif bus[i][0] == j[0]:
+                if bus[i][1] >= j[1]:
+                    cnt += 1
+                    lh, lm = timetable.pop(0)
 
         if i == n - 1:
             if cnt < m:
