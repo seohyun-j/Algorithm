@@ -2,39 +2,23 @@ from collections import deque
 
 
 def solution(n, t, m, timetable):
-    answer = ''
-    st_h = 9
-    st_m = 0
-    bus = [(st_h, st_m)]
-    for i in range(n - 1):
-        st_m += t
-        if st_m >= 60:
-            st_m -= 60
-            st_h += 1
-        bus.append((st_h, st_m))
+    answer = 0
+    timetable = [int(time[:2]) * 60 + int(time[3:]) for time in timetable]
+    timetable.sort()
+    bus = [9 * 60 + t * i for i in range(n)]
 
-    timetable = [tuple(map(int, i.split(':'))) for i in timetable]
-    timetable.sort(key=lambda x: (x[0], x[1]))
-
-    for i in range(n):
+    idx = 0
+    for key in bus:
         cnt = 0
-        print(bus[i], timetable)
-        for j in timetable:
-            print(timetable)
-            if bus[i][0] > j[0]:
-                cnt += 1
-                lh, lm = timetable.pop(0)
-            elif bus[i][0] == j[0]:
-                if bus[i][1] >= j[1]:
-                    cnt += 1
-                    lh, lm = timetable.pop(0)
+        while cnt < m and idx < len(timetable) and timetable[idx] <= key:
+            idx += 1
+            cnt += 1
 
-        if i == n - 1:
-            if cnt < m:
-                print(cnt)
-                return str(bus[i][0]) + ':' + str(bus[i][1])
-            else:
-                return str(lh) + ':' + str(lm - 1)
+        if cnt < m:
+            answer = key
+        else:
+            answer = timetable[idx - 1] - 1
+    return str(answer // 60).zfill(2) + ':' + str(answer % 60).zfill(2)
 
 
 arr0 = ["08:00", "08:01", "08:02", "08:03"]
