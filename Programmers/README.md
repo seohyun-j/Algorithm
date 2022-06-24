@@ -151,7 +151,7 @@
 | 09 | 다단계 칫솔 판매 | [77486](https://programmers.co.kr/learn/courses/30/lessons/77486) | [🔍](./Level_3/77486.py) | ☑ |
 | 10 | 자물쇠와 열쇠 | [60059](https://programmers.co.kr/learn/courses/30/lessons/60059) | [🔍](./Level_3/60059.py) | ☑ |
 | 11 | 셔틀버스 | [17678](https://programmers.co.kr/learn/courses/30/lessons/17678) | [🔍](./Level_3/17678.py) | ❌ |
-| 12 | 표 편집 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 12 | 표 편집 | [81303](https://programmers.co.kr/learn/courses/30/lessons/81303) | [🔍](./Level_3/81303.py) | ❌ |
 | 13 | 보석 쇼핑 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
 | 14 | 불량 사용자 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
 | 15 | 금과 은 운반하기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
