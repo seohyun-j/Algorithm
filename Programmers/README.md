@@ -153,7 +153,7 @@
 | 11 | 셔틀버스 | [17678](https://programmers.co.kr/learn/courses/30/lessons/17678) | [🔍](./Level_3/17678.py) | ❌ |
 | 12 | 표 편집 | [81303](https://programmers.co.kr/learn/courses/30/lessons/81303) | [🔍](./Level_3/81303.py) | ❌ |
 | 13 | 보석 쇼핑 | [67258](https://programmers.co.kr/learn/courses/30/lessons/67258) | [🔍](./Level_3/67258.py) | ❌ |
-| 14 | 불량 사용자 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 14 | 불량 사용자 | [64064](https://programmers.co.kr/learn/courses/30/lessons/64064) | [🔍](./Level_3/64064.py) | ❌ |
 | 15 | 금과 은 운반하기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
 | 16 | 이중우선순위큐 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
 | 17 | 등굣길 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
