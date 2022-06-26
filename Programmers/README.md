@@ -155,8 +155,8 @@
 | 13 | 보석 쇼핑 | [67258](https://programmers.co.kr/learn/courses/30/lessons/67258) | [🔍](./Level_3/67258.py) | ❌ |
 | 14 | 불량 사용자 | [64064](https://programmers.co.kr/learn/courses/30/lessons/64064) | [🔍](./Level_3/64064.py) | ❌ |
 | 15 | 금과 은 운반하기 | [86053](https://programmers.co.kr/learn/courses/30/lessons/86053) | [🔍](./Level_3/86053.py) | ❌ |
-| 16 | 이중우선순위큐 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 17 | 등굣길 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 16 | 이중우선순위큐 | [42628](https://programmers.co.kr/learn/courses/30/lessons/42628) | [🔍](./Level_3/42628.py) | ❌ |
+| 17 | 등굣길 | [42898](https://programmers.co.kr/learn/courses/30/lessons/42898) | [🔍](./Level_3/42898.py) | ❌ |
 | 18 | 단어 변환 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
 | 19 | 합승 택시 요금 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
 | 20 | 경주로 건설 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
