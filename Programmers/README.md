@@ -150,45 +150,44 @@
 | 08 | 순위 | [49191](https://programmers.co.kr/learn/courses/30/lessons/49191) | [🔍](./Level_3/49191.py) | ☑ |
 | 09 | 다단계 칫솔 판매 | [77486](https://programmers.co.kr/learn/courses/30/lessons/77486) | [🔍](./Level_3/77486.py) | ☑ |
 | 10 | 자물쇠와 열쇠 | [60059](https://programmers.co.kr/learn/courses/30/lessons/60059) | [🔍](./Level_3/60059.py) | ☑ |
-| 11 | 셔틀버스 | [17678](https://programmers.co.kr/learn/courses/30/lessons/17678) | [🔍](./Level_3/17678.py) | ❌ |
-| 12 | 표 편집 | [81303](https://programmers.co.kr/learn/courses/30/lessons/81303) | [🔍](./Level_3/81303.py) | ❌ |
-| 13 | 보석 쇼핑 | [67258](https://programmers.co.kr/learn/courses/30/lessons/67258) | [🔍](./Level_3/67258.py) | ❌ |
-| 14 | 불량 사용자 | [64064](https://programmers.co.kr/learn/courses/30/lessons/64064) | [🔍](./Level_3/64064.py) | ❌ |
-| 15 | 금과 은 운반하기 | [86053](https://programmers.co.kr/learn/courses/30/lessons/86053) | [🔍](./Level_3/86053.py) | ❌ |
-| 16 | 이중우선순위큐 | [42628](https://programmers.co.kr/learn/courses/30/lessons/42628) | [🔍](./Level_3/42628.py) | ❌ |
-| 17 | 등굣길 | [42898](https://programmers.co.kr/learn/courses/30/lessons/42898) | [🔍](./Level_3/42898.py) | ❌ |
-| 18 | 단어 변환 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 19 | 합승 택시 요금 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 20 | 경주로 건설 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 21 | 베스트앨범 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 22 | 여행경로 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 23 | 아이템 줍기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 24 | 퍼즐 조각 채우기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 25 | 광고 삽입 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 26 | 기둥과 보 설치 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 27 | 길 찾기 게임 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 28 | 징검다리 건너기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 29 | 모두 0으로 만들기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 30 | 섬 연결하기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 31 | 카드 짝 맞추기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 32 | 외벽 점검 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 33 | 매칭 점수 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 34 | 110 옮기기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 35 | 단속카메라 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 36 | 블록 이동하기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 37 | 공 이동 시뮬레이션 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 38 | 풍선 터트리기 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 39 | 가장 긴 팰린드롬 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 40 | 스타 수열 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 41 | 기지국 설치 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 42 | 숫자 게임 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 43 | 스티커 모으기(2) | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 44 | 거스름돈 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 45 | 야근 지수 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 46 | 줄 서는 방법 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 47 | 최고의 집합 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 48 | 하노이의 탑 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 49 | N-Queen | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 50 | 양과 늑대 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 51 | 파괴되지 않은 건물 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
-| 52 | 사라지는 발판 | [edit](https://programmers.co.kr/learn/courses/30/lessons/edit) | [🔍](./Level_3/edit.py) | ❌ |
+| 11 | 셔틀버스 | [17678](https://programmers.co.kr/learn/courses/30/lessons/17678) | [🔍](./Level_3/17678.py) | ☑ |
+| 12 | 표 편집 | [81303](https://programmers.co.kr/learn/courses/30/lessons/81303) | [🔍](./Level_3/81303.py) | ☑ |
+| 13 | 보석 쇼핑 | [67258](https://programmers.co.kr/learn/courses/30/lessons/67258) | [🔍](./Level_3/67258.py) | ☑ |
+| 14 | 불량 사용자 | [64064](https://programmers.co.kr/learn/courses/30/lessons/64064) | [🔍](./Level_3/64064.py) | ☑ |
+| 15 | 금과 은 운반하기 | [86053](https://programmers.co.kr/learn/courses/30/lessons/86053) | [🔍](./Level_3/86053.py) | ☑ |
+| 16 | 이중우선순위큐 | [42628](https://programmers.co.kr/learn/courses/30/lessons/42628) | [🔍](./Level_3/42628.py) | ☑ |
+| 17 | 등굣길 | [42898](https://programmers.co.kr/learn/courses/30/lessons/42898) | [🔍](./Level_3/42898.py) | ☑ |
+| 18 | 단어 변환 | [43163](https://programmers.co.kr/learn/courses/30/lessons/43163) | [🔍](./Level_3/43163.py) | ❌ |
+| 19 | 합승 택시 요금 | [72413](https://programmers.co.kr/learn/courses/30/lessons/72413) | [🔍](./Level_3/72413.py) | ❌ |
+| 20 | 경주로 건설 | [67259](https://programmers.co.kr/learn/courses/30/lessons/67259) | [🔍](./Level_3/67259.py) | ❌ |
+| 21 | 베스트앨범 | [42579](https://programmers.co.kr/learn/courses/30/lessons/42579) | [🔍](./Level_3/42579.py) | ❌ |
+| 22 | 여행경로 | [43164](https://programmers.co.kr/learn/courses/30/lessons/43164) | [🔍](./Level_3/43164.py) | ❌ |
+| 23 | 아이템 줍기 | [87694](https://programmers.co.kr/learn/courses/30/lessons/87694) | [🔍](./Level_3/87694.py) | ❌ |
+| 24 | 퍼즐 조각 채우기 | [84021](https://programmers.co.kr/learn/courses/30/lessons/84021) | [🔍](./Level_3/84021.py) | ❌ |
+| 25 | 광고 삽입 | [72414](https://programmers.co.kr/learn/courses/30/lessons/72414) | [🔍](./Level_3/72414.py) | ❌ |
+| 26 | 기둥과 보 설치 | [60061](https://programmers.co.kr/learn/courses/30/lessons/60061) | [🔍](./Level_3/60061.py) | ❌ |
+| 27 | 길 찾기 게임 | [42892](https://programmers.co.kr/learn/courses/30/lessons/42892) | [🔍](./Level_3/42892.py) | ❌ |
+| 28 | 징검다리 건너기 | [64062](https://programmers.co.kr/learn/courses/30/lessons/64062) | [🔍](./Level_3/64062.py) | ❌ |
+| 29 | 모두 0으로 만들기 | [76503](https://programmers.co.kr/learn/courses/30/lessons/76503) | [🔍](./Level_3/76503.py) | ❌ |
+| 30 | 섬 연결하기 | [42861](https://programmers.co.kr/learn/courses/30/lessons/42861) | [🔍](./Level_3/42861.py) | ❌ |
+| 31 | 카드 짝 맞추기 | [72415](https://programmers.co.kr/learn/courses/30/lessons/72415) | [🔍](./Level_3/72415.py) | ❌ |
+| 32 | 외벽 점검 | [60062](https://programmers.co.kr/learn/courses/30/lessons/60062) | [🔍](./Level_3/60062.py) | ❌ |
+| 33 | 매칭 점수 | [42893](https://programmers.co.kr/learn/courses/30/lessons/42893) | [🔍](./Level_3/42893.py) | ❌ |
+| 34 | 110 옮기기 | [77886](https://programmers.co.kr/learn/courses/30/lessons/77886) | [🔍](./Level_3/77886.py) | ❌ |
+| 35 | 단속카메라 | [42884](https://programmers.co.kr/learn/courses/30/lessons/42884) | [🔍](./Level_3/42884.py) | ❌ |
+| 36 | 블록 이동하기 | [60063](https://programmers.co.kr/learn/courses/30/lessons/60063) | [🔍](./Level_3/60063.py) | ❌ |
+| 37 | 공 이동 시뮬레이션 | [87391](https://programmers.co.kr/learn/courses/30/lessons/87391) | [🔍](./Level_3/87391.py) | ❌ |
+| 38 | 풍선 터트리기 | [68646](https://programmers.co.kr/learn/courses/30/lessons/68646) | [🔍](./Level_3/68646.py) | ❌ |
+| 39 | 가장 긴 팰린드롬 | [12904](https://programmers.co.kr/learn/courses/30/lessons/12904) | [🔍](./Level_3/12904.py) | ❌ |
+| 40 | 스타 수열 | [70130](https://programmers.co.kr/learn/courses/30/lessons/70130) | [🔍](./Level_3/70130.py) | ❌ |
+| 41 | 기지국 설치 | [12979](https://programmers.co.kr/learn/courses/30/lessons/12979) | [🔍](./Level_3/12979.py) | ❌ |
+| 42 | 숫자 게임 | [12987](https://programmers.co.kr/learn/courses/30/lessons/12987) | [🔍](./Level_3/12987.py) | ❌ |
+| 43 | 스티커 모으기(2) | [12971](https://programmers.co.kr/learn/courses/30/lessons/12971) | [🔍](./Level_3/12971.py) | ❌ |
+| 44 | 거스름돈 | [12907](https://programmers.co.kr/learn/courses/30/lessons/12907) | [🔍](./Level_3/12907.py) | ❌ |
+| 45 | 선입 선출 스케줄링 | [12920](https://programmers.co.kr/learn/courses/30/lessons/12920) | [🔍](./Level_3/12920.py) | ❌ |
+| 46 | 야근 지수 | [12927](https://programmers.co.kr/learn/courses/30/lessons/12927) | [🔍](./Level_3/12927.py) | ❌ |
+| 47 | 최고의 집합 | [12938](https://programmers.co.kr/learn/courses/30/lessons/12938) | [🔍](./Level_3/12938.py) | ❌ |
+| 48 | 최적의 행렬 곱셈 | [12942](https://programmers.co.kr/learn/courses/30/lessons/12942) | [🔍](./Level_3/12942.py) | ❌ |
+| 49 | 양과 늑대 | [92343](https://programmers.co.kr/learn/courses/30/lessons/92343) | [🔍](./Level_3/92343.py) | ❌ |
+| 50 | 파괴되지 않은 건물 | [92344](https://programmers.co.kr/learn/courses/30/lessons/92344) | [🔍](./Level_3/92344.py) | ❌ |
+| 51 | 사라지는 발판 | [92345](https://programmers.co.kr/learn/courses/30/lessons/92345) | [🔍](./Level_3/92345.py) | ❌ |

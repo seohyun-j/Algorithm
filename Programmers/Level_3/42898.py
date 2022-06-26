@@ -14,4 +14,3 @@ def solution(m, n, puddles):
 
 
 print(solution(4, 3, [[2, 2]]))
- 
