@@ -157,8 +157,8 @@
 | 15 | 금과 은 운반하기 | [86053](https://programmers.co.kr/learn/courses/30/lessons/86053) | [🔍](./Level_3/86053.py) | ☑ |
 | 16 | 이중우선순위큐 | [42628](https://programmers.co.kr/learn/courses/30/lessons/42628) | [🔍](./Level_3/42628.py) | ☑ |
 | 17 | 등굣길 | [42898](https://programmers.co.kr/learn/courses/30/lessons/42898) | [🔍](./Level_3/42898.py) | ☑ |
-| 18 | 단어 변환 | [43163](https://programmers.co.kr/learn/courses/30/lessons/43163) | [🔍](./Level_3/43163.py) | ❌ |
-| 19 | 합승 택시 요금 | [72413](https://programmers.co.kr/learn/courses/30/lessons/72413) | [🔍](./Level_3/72413.py) | ❌ |
+| 18 | 단어 변환 | [43163](https://programmers.co.kr/learn/courses/30/lessons/43163) | [🔍](./Level_3/43163.py) | ☑ |
+| 19 | 합승 택시 요금 | [72413](https://programmers.co.kr/learn/courses/30/lessons/72413) | [🔍](./Level_3/72413.py) | ☑ |
 | 20 | 경주로 건설 | [67259](https://programmers.co.kr/learn/courses/30/lessons/67259) | [🔍](./Level_3/67259.py) | ❌ |
 | 21 | 베스트앨범 | [42579](https://programmers.co.kr/learn/courses/30/lessons/42579) | [🔍](./Level_3/42579.py) | ❌ |
 | 22 | 여행경로 | [43164](https://programmers.co.kr/learn/courses/30/lessons/43164) | [🔍](./Level_3/43164.py) | ❌ |
