@@ -29,7 +29,12 @@ def solution(board):
 
         return visited[-1][-1]
 
-    return min(bfs(board, 0), bfs(board, 2))
+    if board[0][1] == 0 and board[1][0] == 0:
+        return min(bfs(board, 0), bfs(board, 2))
+    elif board[0][1] == 1:
+        return bfs(board, 0)
+    else:
+        return bfs(board, 2)
 
 
 b0 = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
