@@ -159,11 +159,11 @@
 | 17 | 등굣길 | [42898](https://programmers.co.kr/learn/courses/30/lessons/42898) | [🔍](./Level_3/42898.py) | ☑ |
 | 18 | 단어 변환 | [43163](https://programmers.co.kr/learn/courses/30/lessons/43163) | [🔍](./Level_3/43163.py) | ☑ |
 | 19 | 합승 택시 요금 | [72413](https://programmers.co.kr/learn/courses/30/lessons/72413) | [🔍](./Level_3/72413.py) | ☑ |
-| 20 | 경주로 건설 | [67259](https://programmers.co.kr/learn/courses/30/lessons/67259) | [🔍](./Level_3/67259.py) | ❌ |
-| 21 | 베스트앨범 | [42579](https://programmers.co.kr/learn/courses/30/lessons/42579) | [🔍](./Level_3/42579.py) | ❌ |
-| 22 | 여행경로 | [43164](https://programmers.co.kr/learn/courses/30/lessons/43164) | [🔍](./Level_3/43164.py) | ❌ |
-| 23 | 아이템 줍기 | [87694](https://programmers.co.kr/learn/courses/30/lessons/87694) | [🔍](./Level_3/87694.py) | ❌ |
-| 24 | 퍼즐 조각 채우기 | [84021](https://programmers.co.kr/learn/courses/30/lessons/84021) | [🔍](./Level_3/84021.py) | ❌ |
+| 20 | 경주로 건설 | [67259](https://programmers.co.kr/learn/courses/30/lessons/67259) | [🔍](./Level_3/67259.py) | ☑ |
+| 21 | 베스트앨범 | [42579](https://programmers.co.kr/learn/courses/30/lessons/42579) | [🔍](./Level_3/42579.py) | ☑ |
+| 22 | 여행경로 | [43164](https://programmers.co.kr/learn/courses/30/lessons/43164) | [🔍](./Level_3/43164.py) | ☑ |
+| 23 | 아이템 줍기 | [87694](https://programmers.co.kr/learn/courses/30/lessons/87694) | [🔍](./Level_3/87694.py) | ☑ |
+| 24 | 퍼즐 조각 채우기 | [84021](https://programmers.co.kr/learn/courses/30/lessons/84021) | [🔍](./Level_3/84021.py) | ☑ |
 | 25 | 광고 삽입 | [72414](https://programmers.co.kr/learn/courses/30/lessons/72414) | [🔍](./Level_3/72414.py) | ❌ |
 | 26 | 기둥과 보 설치 | [60061](https://programmers.co.kr/learn/courses/30/lessons/60061) | [🔍](./Level_3/60061.py) | ❌ |
 | 27 | 길 찾기 게임 | [42892](https://programmers.co.kr/learn/courses/30/lessons/42892) | [🔍](./Level_3/42892.py) | ❌ |
