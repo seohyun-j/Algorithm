@@ -38,7 +38,7 @@ def solution(play_time, adv_time, logs):
 
     for i in range(1, play_time + 1):
         dp[i] = dp[i] + dp[i - 1]
-
+    
     for i in range(adv_time - 1, play_time + 1):
         if i >= adv_time:
             if most_view < dp[i] - dp[i - adv_time]:
