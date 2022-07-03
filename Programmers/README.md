@@ -164,7 +164,7 @@
 | 22 | 여행경로 | [43164](https://programmers.co.kr/learn/courses/30/lessons/43164) | [🔍](./Level_3/43164.py) | ☑ |
 | 23 | 아이템 줍기 | [87694](https://programmers.co.kr/learn/courses/30/lessons/87694) | [🔍](./Level_3/87694.py) | ☑ |
 | 24 | 퍼즐 조각 채우기 | [84021](https://programmers.co.kr/learn/courses/30/lessons/84021) | [🔍](./Level_3/84021.py) | ☑ |
-| 25 | 광고 삽입 | [72414](https://programmers.co.kr/learn/courses/30/lessons/72414) | [🔍](./Level_3/72414.py) | ❌ |
+| 25 | 광고 삽입 | [72414](https://programmers.co.kr/learn/courses/30/lessons/72414) | [🔍](./Level_3/72414.py) | ☑ |
 | 26 | 기둥과 보 설치 | [60061](https://programmers.co.kr/learn/courses/30/lessons/60061) | [🔍](./Level_3/60061.py) | ❌ |
 | 27 | 길 찾기 게임 | [42892](https://programmers.co.kr/learn/courses/30/lessons/42892) | [🔍](./Level_3/42892.py) | ❌ |
 | 28 | 징검다리 건너기 | [64062](https://programmers.co.kr/learn/courses/30/lessons/64062) | [🔍](./Level_3/64062.py) | ❌ |
