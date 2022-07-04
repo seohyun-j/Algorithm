@@ -1,51 +1,34 @@
+def check(ans):
+    for x, y, val in ans:
+        if val == 0:
+            if y == 0 or [x - 1, y, 1] in ans or [x, y, 1] in ans or [x, y - 1, 0] in ans:
+                continue
+            else:
+                return True
+        else:
+            if [x, y - 1, 0] in ans or [x + 1, y - 1, 0] in ans or ([x - 1, y, 1] in ans and [x + 1, y, 1] in ans):
+                continue
+            else:
+                return True
+    return False
+
+
 def solution(n, build_frame):
     answer = []
 
-    for x, y, a, b in build_frame:
-        if b == 1:
-            if a == 0:
-                if y == 0:
-                    answer.append([x, y, a])
-                else:
-                    tmp = [[x-1, y, 1], [x, y, 1], [x, y-1, 0]]
-                    if tmp[0] in answer or tmp[1] in answer or tmp[2] in answer:
-                        answer.append([x, y, a])
-            else:
-                tmp = [[x, y-1, 0], [x+1, y-1, 0], [x+1, y, 1], [x-1, y, 1]]
-                if tmp[0] in answer or tmp[1] in answer or (tmp[2] in answer and tmp[3] in answer):
-                    answer.append([x, y, a])
+    for i in build_frame:
+        x, y, val, how = i
+
+        if how == 1:
+            answer.append([x, y, val])
+            if check(answer):
+                answer.remove([x, y, val])
         else:
-            if a == 0:
-                if [x, y+1, 0] in answer:
-                    if [x-1, y+1, 1] not in answer and [x, y+1, 1] not in answer:
-                        continue
-                if [x, y+1, 1] in answer:
-                    if [x+1, y, 0] not in answer:
-                        if [x+1, y+1, 1] not in answer or [x-1, y+1, 1] not in answer:
-                            continue
-                if [x-1, y+1, 1] in answer:
-                    if [x, y+1, 1] not in answer or [x-2, y+1, 1] not in answer:
-                        continue
-
-                answer.pop(answer.index([x, y, a]))
-
-            else:
-                if [x, y, 0] in answer:
-                    if [x, y-1, 0] not in answer and [x-1, y, 1] not in answer:
-                        continue
-                if [x+1, y, 0] in answer:
-                    if [x+1, y-1, 0] not in answer and [x+1, y, 1] not in answer:
-                        continue
-                if [x-1, y, 1] in answer:
-                    if [x-1, y-1, 0] not in answer and [x, y-1, 0] not in answer:
-                        continue
-                if [x+1, y, 1] in answer:
-                    if [x+1, y-1, 0] not in answer and [x+2, y-1, 0] not in answer:
-                        continue
-
-                answer.pop(answer.index([x, y, a]))
-
-    answer.sort(key = lambda x: (x[0], x[1], x[2]))
+            answer.remove([x, y, val])
+            if check(answer):
+                answer.append([x, y, val])
+                
+    answer.sort()
     return answer
 
 
