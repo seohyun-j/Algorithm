@@ -27,7 +27,7 @@ def solution(n, build_frame):
             answer.remove([x, y, val])
             if check(answer):
                 answer.append([x, y, val])
-                
+
     answer.sort()
     return answer
 
