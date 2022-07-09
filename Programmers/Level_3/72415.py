@@ -11,7 +11,7 @@ def solution(board, r, c):
                     dic[board[i][j]] = []
                 dic[board[i][j]].append((i, j))
 
-    answer = len(dic.keys())*2
+    answer = len(dic.keys()) * 2
 
     def find_rc(board, dic, r, c):
         queue = deque()
@@ -20,35 +20,46 @@ def solution(board, r, c):
         dx = [1, -1, 0, 0]
         dy = [0, 0, 1, -1]
 
-        visited = [[False]*4 for _ in range(4)]
+        visited = [[False] * 4 for _ in range(4)]
         visited[r][c] = True
+
+        key = 100
 
         while queue:
             y, x, cnt, d = queue.popleft()
 
             if board[y][x] != 0:
-                return y, x, cnt
+                if key > cnt:
+                    key_x, key_y = x, y
+                    key = cnt
 
             for i in range(4):
                 nx = x + dx[i]
                 ny = y + dy[i]
 
-                
+                if not (0 <= nx < 4 and 0 <= ny < 4):
+                    continue
 
+                if visited[ny][nx]:
+                    continue
 
-    for _ in range(answer//2):
-        if board[r][c] != 0:
-            p1, p2 = dic[board[r][c]]
-            del dic[board[r][c]]
-            y, x = p1 if (r, c) == p2 else p2
-            if r != y:
-                answer += 1
-            if c != x:
-                answer += 1
-            board[r][c] = board[y][x] = 0
-            r, c = y, x
-        else:
-            r, c = find_rc(board, dic, r, c)
+                visited[ny][nx] = True
+                tmp = cnt + 1 if d != i else cnt
+                queue.append((ny, nx, tmp, i))
+        return key_y, key_x, key
+
+    for _ in range(answer // 2):
+        if board[r][c] == 0:
+            r, c, cnt = find_rc(board, dic, r, c)
+            answer += cnt
+        p1, p2 = dic[board[r][c]]
+        y, x = p1 if (r, c) == p2 else p2
+        if r != y:
+            answer += 1
+        if c != x:
+            answer += 1
+        board[r][c] = board[y][x] = 0
+        r, c = y, x
 
     return answer
 
