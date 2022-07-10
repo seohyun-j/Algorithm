@@ -52,6 +52,7 @@ def solution(board, r, c):
         if board[r][c] == 0:
             r, c, cnt = find_rc(board, dic, r, c)
             answer += cnt
+            
         p1, p2 = dic[board[r][c]]
         y, x = p1 if (r, c) == p2 else p2
         if r != y:
