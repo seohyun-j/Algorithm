@@ -170,8 +170,8 @@
 | 28 | 징검다리 건너기 | [64062](https://programmers.co.kr/learn/courses/30/lessons/64062) | [🔍](./Level_3/64062.py) | ☑ |
 | 29 | 모두 0으로 만들기 | [76503](https://programmers.co.kr/learn/courses/30/lessons/76503) | [🔍](./Level_3/76503.py) | ☑ |
 | 30 | 섬 연결하기 | [42861](https://programmers.co.kr/learn/courses/30/lessons/42861) | [🔍](./Level_3/42861.py) | ☑ |
-| 31 | 카드 짝 맞추기 | [72415](https://programmers.co.kr/learn/courses/30/lessons/72415) | [🔍](./Level_3/72415.py) | ❌ |
-| 32 | 외벽 점검 | [60062](https://programmers.co.kr/learn/courses/30/lessons/60062) | [🔍](./Level_3/60062.py) | ❌ |
+| 31 | 카드 짝 맞추기 | [72415](https://programmers.co.kr/learn/courses/30/lessons/72415) | [🔍](./Level_3/72415.py) | ☑ |
+| 32 | 외벽 점검 | [60062](https://programmers.co.kr/learn/courses/30/lessons/60062) | [🔍](./Level_3/60062.py) | ☑ |
 | 33 | 매칭 점수 | [42893](https://programmers.co.kr/learn/courses/30/lessons/42893) | [🔍](./Level_3/42893.py) | ❌ |
 | 34 | 110 옮기기 | [77886](https://programmers.co.kr/learn/courses/30/lessons/77886) | [🔍](./Level_3/77886.py) | ❌ |
 | 35 | 단속카메라 | [42884](https://programmers.co.kr/learn/courses/30/lessons/42884) | [🔍](./Level_3/42884.py) | ❌ |
