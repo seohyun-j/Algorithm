@@ -9,6 +9,7 @@ def solution(word, pages):
     homepage = {}
     extra = {}
     for j, i in enumerate(pages):
+        # 문자 찾기(기본점수, 외부 링크점수)
         base = 0
         for k in re.findall(r'[a-zA-Z]+', i.lower()):
             if k == word.lower():
@@ -17,11 +18,13 @@ def solution(word, pages):
         dic[j] = [base, i.count('<a href=')]
         answer.append(base)
 
+        # 기본 페이지 주소 찾기
         idx = i.index('<meta property="og:url" content="') + len('<meta property="og:url" content="')
         en_idx = i[idx:].index('"') + idx
         tmp = i[idx:en_idx]
         homepage[tmp] = j
 
+        # 외부 링크 찾기
         key = i.count('<a href=')
         extra[j] = []
         for k in range(key):
@@ -31,6 +34,7 @@ def solution(word, pages):
             i = i[en:]
             extra[j].append(tmp)
 
+    # 매칭 점수 구하기
     for i in range(len(pages)):
         base, plus = dic[i]
         for j in extra[i]:
@@ -48,20 +52,24 @@ def re_solution(word, pages):
     homepage = {}
     extra = {}
     for j, i in enumerate(pages):
+        # 문자 찾기(기본점수, 외부 링크점수)
         base = 0
         for k in re.findall(r'[a-zA-Z]+', i.lower()):
             if k == word.lower():
                 base += 1
 
+        # 기본 페이지 주소 찾기
         url = re.search('<meta property="og:url" content="(\S+)"', i).group(1)
         homepage[url] = j
 
+        # 외부 링크 찾기
         href = re.findall('<a href="(https://[\S]*)"', i)
         extra[j] = href
 
         dic[j] = [base, len(href)]
         answer.append(base)
 
+    # 매칭 점수 구하기
     for i in range(len(pages)):
         base, plus = dic[i]
         for j in extra[i]:
