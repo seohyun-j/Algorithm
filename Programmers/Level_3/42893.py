@@ -1,19 +1,19 @@
 import re
 
 
+# 내가 한 풀이에서 word 찾는 부분만 바꾼 것
+# 내가 한 풀이가 정확성 테스트에서 시간이 더 단축됨
 def solution(word, pages):
     answer = []
     dic = {}
     homepage = {}
     extra = {}
     for j, i in enumerate(pages):
-        cnt = re.sub("([^a-zA-z0-9]+)", " ", i)
-        cnt = re.sub("([0-9]+)", " ", cnt).lower()
-        cnt = cnt.split(' ')
         base = 0
-        for k in cnt:
+        for k in re.findall(r'[a-zA-Z]+', i.lower()):
             if k == word.lower():
                 base += 1
+
         dic[j] = [base, i.count('<a href=')]
         answer.append(base)
 
@@ -36,7 +36,38 @@ def solution(word, pages):
         for j in extra[i]:
             if j in homepage.keys():
                 idx = homepage[j]
-                answer[idx] += (base/plus)
+                answer[idx] += (base / plus)
+
+    return answer.index(max(answer))
+
+
+# re 모듈함수만 이용하여 구한 것
+def re_solution(word, pages):
+    answer = []
+    dic = {}
+    homepage = {}
+    extra = {}
+    for j, i in enumerate(pages):
+        base = 0
+        for k in re.findall(r'[a-zA-Z]+', i.lower()):
+            if k == word.lower():
+                base += 1
+
+        url = re.search('<meta property="og:url" content="(\S+)"', i).group(1)
+        homepage[url] = j
+
+        href = re.findall('<a href="(https://[\S]*)"', i)
+        extra[j] = href
+
+        dic[j] = [base, len(href)]
+        answer.append(base)
+
+    for i in range(len(pages)):
+        base, plus = dic[i]
+        for j in extra[i]:
+            if j in homepage.keys():
+                idx = homepage[j]
+                answer[idx] += (base / plus)
 
     return answer.index(max(answer))
 
