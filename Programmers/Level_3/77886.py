@@ -3,10 +3,6 @@ import re
 
 def solution(s):
     answer = []
-    for i in s:
-        cnt, idx, stack = 0, 0, ""
-
-
     return answer
 
 
