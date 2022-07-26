@@ -174,7 +174,7 @@
 | 32 | 외벽 점검 | [60062](https://programmers.co.kr/learn/courses/30/lessons/60062) | [🔍](./Level_3/60062.py) | ☑ |
 | 33 | 매칭 점수 | [42893](https://programmers.co.kr/learn/courses/30/lessons/42893) | [🔍](./Level_3/42893.py) | ☑ |
 | 34 | 110 옮기기 | [77886](https://programmers.co.kr/learn/courses/30/lessons/77886) | [🔍](./Level_3/77886.py) | ☑ |
-| 35 | 단속카메라 | [42884](https://programmers.co.kr/learn/courses/30/lessons/42884) | [🔍](./Level_3/42884.py) | ☑ |
+| 35 | 단속카메라 | [42884](https://programmers.co.kr/learn/courses/30/lessons/42884) | [🔍](./Level_3/42884.py) | ❌ |
 | 36 | 블록 이동하기 | [60063](https://programmers.co.kr/learn/courses/30/lessons/60063) | [🔍](./Level_3/60063.py) | ❌ |
 | 37 | 공 이동 시뮬레이션 | [87391](https://programmers.co.kr/learn/courses/30/lessons/87391) | [🔍](./Level_3/87391.py) | ❌ |
 | 38 | 풍선 터트리기 | [68646](https://programmers.co.kr/learn/courses/30/lessons/68646) | [🔍](./Level_3/68646.py) | ❌ |
