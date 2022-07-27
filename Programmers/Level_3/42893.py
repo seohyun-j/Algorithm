@@ -63,7 +63,7 @@ def re_solution(word, pages):
         homepage[url] = j
 
         # 외부 링크 찾기
-        href = re.findall('<a href="(https://[\S]*)"', i)
+        href = re.findall('<a href="(\S+)"', i)
         extra[j] = href
 
         dic[j] = [base, len(href)]
@@ -92,3 +92,5 @@ p1 = [
 
 print(solution(w0, p0))
 print(solution(w1, p1))
+print(re_solution(w0, p0))
+print(re_solution(w1, p1))
