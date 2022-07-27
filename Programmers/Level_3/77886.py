@@ -1,32 +1,22 @@
 def solution(s):
-    def extract(word):
-        cnt, stack = 0, []
-        for i in word:
-            if i == '0' and stack[-2:] == ['1', '1']:
-                stack.pop()
-                stack.pop()
-                cnt += 1
-            else:
-                stack.append(i)
-        return ''.join(stack), cnt
-
-    def rearrange(word):
-        for i in range(-1, -len(word) - 1, -1):
-            pointer = len(word) + (i + 1)
-            if word[i] == '0':
-                return word[:pointer] + '110' + word[pointer:]
-        return '110' + word
-
     answer = []
-    for val in s:
-        # 110 제거 하기
-        val, count = extract(val)
-
-        # 110 정렬하여 넣기
-        for _ in range(count):
-            val = rearrange(val)
-
-        answer.append(val)
+    for string in s:
+        stack = []
+        cnt = 0
+        for st in string:
+            if len(stack) >= 2 and stack[-1] == '1' and stack[-2] == '1' and st == '0':
+                cnt += 1
+                stack.pop()
+                stack.pop()
+            else:
+                stack.append(st)
+        count_1 = 0
+        for st in stack[::-1]:
+            if st == '0':
+                break
+            else:
+                count_1 += 1
+        answer.append(''.join(stack[:len(stack) - count_1]) + cnt * '110' + count_1 * '1')
     return answer
 
 
