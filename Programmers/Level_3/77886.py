@@ -10,13 +10,14 @@ def solution(s):
                 stack.pop()
             else:
                 stack.append(st)
-        count_1 = 0
+
+        sub_cnt = 0
         for st in stack[::-1]:
             if st == '0':
                 break
             else:
-                count_1 += 1
-        answer.append(''.join(stack[:len(stack) - count_1]) + cnt * '110' + count_1 * '1')
+                sub_cnt += 1
+        answer.append(''.join(stack[:len(stack) - sub_cnt]) + cnt * '110' + sub_cnt * '1')
     return answer
 
 
