@@ -1,65 +1,61 @@
 from collections import deque
 
 
+def chk_next(pos, board):
+    n = len(board)
+
+    next_arr = deque()
+
+    pos = list(pos)
+    y, x, ny, nx = pos[0][0], pos[0][1], pos[1][0], pos[1][1]
+
+    dx = [1, -1, 0, 0]
+    dy = [0, 0, 1, -1]
+
+    for i in range(4):
+        py, px, pny, pnx = y + dy[i], x + dx[i], ny + dy[i], nx + dx[i]
+        if not (0 <= py < n and 0 <= px < n and 0 <= pny < n and 0 <= pnx < n):
+            continue
+        if board[py][px] == 0 and board[pny][pnx] == 0:
+            next_arr.append({(py, px), (pny, pnx)})
+
+    if y == ny:
+        for i in [-1, 1]:
+            if 0 <= y + i < n and 0 <= ny + i < n:
+                if board[y + i][x] == 0 and board[ny + i][nx] == 0:
+                    next_arr.append({(y, x), (y + i, x)})
+                    next_arr.append({(ny, nx), (ny + i, nx)})
+
+    else:
+        for i in [-1, 1]:
+            if 0 <= x + i < n and 0 <= nx + i < n:
+                if board[y][x + i] == 0 and board[ny][nx + i] == 0:
+                    next_arr.append({(y, x), (y, x + i)})
+                    next_arr.append({(ny, nx), (ny, nx + i)})
+
+    return next_arr
+
+
 def solution(board):
     n = len(board)
-    queue = deque()
-    visited = [[0] * n for _ in range(n)]
-    visited[0][0] = 1
-    visited[0][1] = 1
 
-    queue.append([0, 0, 0, 1, 0])
+    queue = deque()
+    queue.append([{(0, 0), (0, 1)}, 0])
+
+    visited = [[0, 0], [0, 1]]
 
     while queue:
-        y, x, ny, nx, dis = queue.popleft()
+        pos, dis = queue.popleft()
 
-        if ny == n - 1 and nx == n - 1:
+        if (n - 1, n - 1) in pos:
             return dis
 
-        if y == ny:
-            # 옆으로 이동
-            if 0 <= nx + 1 < n:
-                if visited[ny][nx + 1] == 0 and board[ny][nx + 1] != 1:
-                    queue.append((y, x + 1, ny, nx + 1, dis + 1))
-                    visited[y][x + 1] = 1
-                    visited[ny][nx + 1] = 1
+        for i in chk_next(pos, board):
+            if i not in visited:
+                queue.append((i, dis + 1))
+                visited.append(i)
 
-            # 반시계방향으로 회전하여 이동
-            if 0 <= y + 1 < n:
-                if visited[y + 1][nx] == 0 and board[y + 1][nx] != 1 and board[y + 1][x] != 1:
-                    queue.append((ny, nx, ny + 1, nx, dis + 1))
-                    visited[y][nx] = 1
-                    visited[ny + 1][nx] = 1
-
-            # 시계방향으로 회전하여 이동
-            if 0 <= y - 1 < n:
-                if visited[y - 1][nx] == 0 and board[y - 1][nx] != 1 and board[y - 1][x] != 1:
-                    queue.append((y - 1, nx, ny, nx, dis + 1))
-                    visited[y - 1][nx] = 1
-                    visited[ny][nx] = 1
-        else:
-            # 아래로 이동
-            if 0 <= ny + 1 < n:
-                if visited[ny + 1][nx] == 0 and board[ny + 1][nx] != 1:
-                    queue.append((y + 1, x, ny + 1, nx, dis + 1))
-                    visited[y + 1][x] = 1
-                    visited[ny + 1][nx] = 1
-
-            # 시계방향으로 회전하여 이동
-            if 0 <= nx + 1 < n:
-                if visited[ny][nx + 1] == 0 and board[ny][nx + 1] != 1 and board[y][nx + 1] != 1:
-                    queue.append((ny, nx, ny, nx + 1, dis + 1))
-                    visited[ny][nx] = 1
-                    visited[ny][nx + 1] = 1
-
-            # 반시계방향으로 회전하여 이동
-            if 0 <= nx - 1 < n:
-                if visited[ny][nx - 1] == 0 and board[ny][nx - 1] != 1 and board[y][nx - 1] != 1:
-                    queue.append((ny, nx - 1, ny, nx, dis + 1))
-                    visited[ny][nx] = 1
-                    visited[ny][nx - 1] = 1
-
-    return dis
+    return 0
 
 
 print(solution([[0, 0, 0, 1, 1], [0, 0, 0, 1, 0], [0, 1, 0, 1, 1], [1, 1, 0, 0, 1], [0, 0, 0, 0, 0]]))
