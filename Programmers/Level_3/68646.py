@@ -5,9 +5,13 @@ def solution(a):
         if a[i] < min_left:
             min_left = a[i]
             result[i] = True
+
         if a[-1 - i] < min_right:
             min_right = a[-1 - i]
             result[-1 - i] = True
+
+        if min_left == min_right:
+            break
     return sum(result)
 
 
