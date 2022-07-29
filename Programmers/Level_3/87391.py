@@ -2,7 +2,7 @@ def solution(n, m, x, y, queries):
     top = bottom = x
     left = right = y
     height, width = n - 1, m - 1
-    print(top, bottom, left, right)
+
     for command, dx in queries[::-1]:
         # ← 이동
         if command == 0:
