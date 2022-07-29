@@ -1,8 +1,7 @@
 def solution(n, m, x, y, queries):
     top = bottom = x
     left = right = y
-    height = n - 1
-    width = m - 1
+    height, width = n - 1, m - 1
 
     for command, dx in queries[::-1]:
         # ← 이동
