@@ -38,11 +38,13 @@ def solution(n, m, x, y, queries):
 
         if left > right or top > bottom:
             return 0
-
+        print(top, bottom, left, right)
     return (bottom - top + 1) * (right - left + 1)
 
 
 q0 = [[2, 1], [0, 1], [1, 1], [0, 1], [2, 1]]
 q1 = [[3, 1], [2, 2], [1, 1], [2, 3], [0, 1], [2, 1]]
+q2 = [[2, 3], [3, 1]]
 print(solution(2, 2, 0, 0, q0))
 print(solution(2, 5, 0, 1, q1))
+print(solution(3, 3, 1, 1, q2))
