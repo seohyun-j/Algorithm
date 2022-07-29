@@ -42,7 +42,7 @@ def solution(board):
     queue = deque()
     queue.append([{(0, 0), (0, 1)}, 0])
 
-    visited = [[0, 0], [0, 1]]
+    visited = [{(0, 0), (0, 1)}]
 
     while queue:
         pos, dis = queue.popleft()
