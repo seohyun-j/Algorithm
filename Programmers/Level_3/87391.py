@@ -2,7 +2,7 @@ def solution(n, m, x, y, queries):
     top = bottom = x
     left = right = y
     height, width = n - 1, m - 1
-
+    print(top, bottom, left, right)
     for command, dx in queries[::-1]:
         # ← 이동
         if command == 0:
@@ -44,7 +44,7 @@ def solution(n, m, x, y, queries):
 
 q0 = [[2, 1], [0, 1], [1, 1], [0, 1], [2, 1]]
 q1 = [[3, 1], [2, 2], [1, 1], [2, 3], [0, 1], [2, 1]]
-q2 = [[2, 3], [3, 1]]
+q2 = [[2, 3], [3, 1], [0, 3]]
 print(solution(2, 2, 0, 0, q0))
 print(solution(2, 5, 0, 1, q1))
-print(solution(3, 3, 1, 1, q2))
+print(solution(3, 3, 1, 0, q2))
