@@ -38,7 +38,7 @@ def solution(n, m, x, y, queries):
 
         if left > right or top > bottom:
             return 0
-        print(top, bottom, left, right)
+
     return (bottom - top + 1) * (right - left + 1)
 
 
