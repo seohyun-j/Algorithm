@@ -38,6 +38,34 @@ def solution(a):
     return 0
 
 
+from collections import Counter
+
+
+def other_solution(a):
+    counter = Counter(a)
+    if len(a) < 4:
+        return 0
+    answer = -1
+    for key in counter.keys():
+        if counter[key] <= answer:
+            continue
+
+        i, cnt = 0, 0
+        while i < len(a) - 1:
+            if (a[i] == a[i + 1]) or (a[i] != key and a[i + 1] != key):
+                i += 1
+            else:
+                i += 2
+                cnt += 1
+        answer = max(answer, cnt)
+
+    return answer * 2
+
+
+# https://yabmoons.tistory.com/610
 print(solution([0]))
 print(solution([5, 2, 3, 3, 5, 3]))
 print(solution([0, 3, 3, 0, 7, 2, 0, 2, 2, 0]))
+print(other_solution([0]))
+print(other_solution([5, 2, 3, 3, 5, 3]))
+print(other_solution([0, 3, 3, 0, 7, 2, 0, 2, 2, 0]))
