@@ -42,16 +42,19 @@ from collections import Counter
 
 
 def other_solution(a):
-    counter = Counter(a)
     if len(a) < 4:
         return 0
+
+    counter = Counter(a)
     answer = -1
+    length = len(a) - 1
+
     for key in counter.keys():
         if counter[key] <= answer:
             continue
 
         i, cnt = 0, 0
-        while i < len(a) - 1:
+        while i < length:
             if (a[i] == a[i + 1]) or (a[i] != key and a[i + 1] != key):
                 i += 1
             else:
