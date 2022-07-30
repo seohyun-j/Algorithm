@@ -12,6 +12,9 @@ def solution(s):
             if chk == chk[::-1]:
                 answer = max(answer, j - i)
 
+                if answer == length:
+                    return answer
+
     return answer
 
 
