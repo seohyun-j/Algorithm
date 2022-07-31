@@ -45,13 +45,13 @@ def other_solution(a):
     if len(a) < 4:
         return 0
 
-    counter = Counter(a)
+    counter = Counter(a).most_common()
     answer = -1
     length = len(a) - 1
 
-    for key in counter.keys():
-        if counter[key] <= answer:
-            continue
+    for key, val in counter:
+        if val <= answer:
+            return answer
 
         i, cnt = 0, 0
         while i < length:
@@ -59,10 +59,10 @@ def other_solution(a):
                 i += 1
             else:
                 i += 2
-                cnt += 1
+                cnt += 2
         answer = max(answer, cnt)
 
-    return answer * 2
+    return answer
 
 
 # https://yabmoons.tistory.com/610
