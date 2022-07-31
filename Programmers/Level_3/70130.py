@@ -27,6 +27,7 @@ def solution(a):
 
                 if len(set(before_set)) == 1:
                     chk = True
+                    break
 
                 before_set = next_set
 
@@ -65,7 +66,6 @@ def other_solution(a):
     return answer * 2
 
 
-# https://yabmoons.tistory.com/610
 print(solution([0]))
 print(solution([5, 2, 3, 3, 5, 3]))
 print(solution([0, 3, 3, 0, 7, 2, 0, 2, 2, 0]))
