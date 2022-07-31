@@ -4,7 +4,7 @@ from itertools import combinations
 def solution(a):
     length = len(a) if len(a) % 2 == 0 else len(a) - 1
 
-    if length == 0:
+    if length < 4:
         return 0
 
     for i in range(length, 1, -2):
