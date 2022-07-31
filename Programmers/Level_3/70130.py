@@ -30,7 +30,7 @@ def solution(a):
 
                 before_set = next_set
 
-            if not inter or chk:
+            if chk or not inter:
                 continue
             else:
                 return len(arr)
