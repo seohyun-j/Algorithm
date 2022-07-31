@@ -51,7 +51,7 @@ def other_solution(a):
 
     for key, val in counter:
         if val <= answer:
-            return answer
+            return answer * 2
 
         i, cnt = 0, 0
         while i < length:
@@ -59,10 +59,10 @@ def other_solution(a):
                 i += 1
             else:
                 i += 2
-                cnt += 2
+                cnt += 1
         answer = max(answer, cnt)
 
-    return answer
+    return answer * 2
 
 
 # https://yabmoons.tistory.com/610
