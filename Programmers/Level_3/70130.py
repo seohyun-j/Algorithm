@@ -7,7 +7,7 @@ def solution(a):
     if length < 4:
         return 0
 
-    for i in range(length, 1, -2):
+    for i in range(length, 3, -2):
         for arr in set(combinations(a, i)):
             chk = False
             before_set = [arr[0], arr[1]]
