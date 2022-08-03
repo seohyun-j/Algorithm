@@ -166,20 +166,20 @@
 | 24 | 퍼즐 조각 채우기 | [84021](https://programmers.co.kr/learn/courses/30/lessons/84021) | [🔍](./Level_3/84021.py) | ☑ |
 | 25 | 광고 삽입 | [72414](https://programmers.co.kr/learn/courses/30/lessons/72414) | [🔍](./Level_3/72414.py) | ☑ |
 | 26 | 기둥과 보 설치 | [60061](https://programmers.co.kr/learn/courses/30/lessons/60061) | [🔍](./Level_3/60061.py) | ☑ |
-| 27 | 길 찾기 게임 | [42892](https://programmers.co.kr/learn/courses/30/lessons/42892) | [🔍](./Level_3/42892.py) | ❌ |
-| 28 | 징검다리 건너기 | [64062](https://programmers.co.kr/learn/courses/30/lessons/64062) | [🔍](./Level_3/64062.py) | ❌ |
-| 29 | 모두 0으로 만들기 | [76503](https://programmers.co.kr/learn/courses/30/lessons/76503) | [🔍](./Level_3/76503.py) | ❌ |
-| 30 | 섬 연결하기 | [42861](https://programmers.co.kr/learn/courses/30/lessons/42861) | [🔍](./Level_3/42861.py) | ❌ |
-| 31 | 카드 짝 맞추기 | [72415](https://programmers.co.kr/learn/courses/30/lessons/72415) | [🔍](./Level_3/72415.py) | ❌ |
-| 32 | 외벽 점검 | [60062](https://programmers.co.kr/learn/courses/30/lessons/60062) | [🔍](./Level_3/60062.py) | ❌ |
-| 33 | 매칭 점수 | [42893](https://programmers.co.kr/learn/courses/30/lessons/42893) | [🔍](./Level_3/42893.py) | ❌ |
-| 34 | 110 옮기기 | [77886](https://programmers.co.kr/learn/courses/30/lessons/77886) | [🔍](./Level_3/77886.py) | ❌ |
-| 35 | 단속카메라 | [42884](https://programmers.co.kr/learn/courses/30/lessons/42884) | [🔍](./Level_3/42884.py) | ❌ |
-| 36 | 블록 이동하기 | [60063](https://programmers.co.kr/learn/courses/30/lessons/60063) | [🔍](./Level_3/60063.py) | ❌ |
-| 37 | 공 이동 시뮬레이션 | [87391](https://programmers.co.kr/learn/courses/30/lessons/87391) | [🔍](./Level_3/87391.py) | ❌ |
-| 38 | 풍선 터트리기 | [68646](https://programmers.co.kr/learn/courses/30/lessons/68646) | [🔍](./Level_3/68646.py) | ❌ |
-| 39 | 가장 긴 팰린드롬 | [12904](https://programmers.co.kr/learn/courses/30/lessons/12904) | [🔍](./Level_3/12904.py) | ❌ |
-| 40 | 스타 수열 | [70130](https://programmers.co.kr/learn/courses/30/lessons/70130) | [🔍](./Level_3/70130.py) | ❌ |
+| 27 | 길 찾기 게임 | [42892](https://programmers.co.kr/learn/courses/30/lessons/42892) | [🔍](./Level_3/42892.py) | ☑ |
+| 28 | 징검다리 건너기 | [64062](https://programmers.co.kr/learn/courses/30/lessons/64062) | [🔍](./Level_3/64062.py) | ☑ |
+| 29 | 모두 0으로 만들기 | [76503](https://programmers.co.kr/learn/courses/30/lessons/76503) | [🔍](./Level_3/76503.py) | ☑ |
+| 30 | 섬 연결하기 | [42861](https://programmers.co.kr/learn/courses/30/lessons/42861) | [🔍](./Level_3/42861.py) | ☑ |
+| 31 | 카드 짝 맞추기 | [72415](https://programmers.co.kr/learn/courses/30/lessons/72415) | [🔍](./Level_3/72415.py) | ☑ |
+| 32 | 외벽 점검 | [60062](https://programmers.co.kr/learn/courses/30/lessons/60062) | [🔍](./Level_3/60062.py) | ☑ |
+| 33 | 매칭 점수 | [42893](https://programmers.co.kr/learn/courses/30/lessons/42893) | [🔍](./Level_3/42893.py) | ☑ |
+| 34 | 110 옮기기 | [77886](https://programmers.co.kr/learn/courses/30/lessons/77886) | [🔍](./Level_3/77886.py) | ☑ |
+| 35 | 단속카메라 | [42884](https://programmers.co.kr/learn/courses/30/lessons/42884) | [🔍](./Level_3/42884.py) | ☑ |
+| 36 | 블록 이동하기 | [60063](https://programmers.co.kr/learn/courses/30/lessons/60063) | [🔍](./Level_3/60063.py) | ☑ |
+| 37 | 공 이동 시뮬레이션 | [87391](https://programmers.co.kr/learn/courses/30/lessons/87391) | [🔍](./Level_3/87391.py) | ☑ |
+| 38 | 풍선 터트리기 | [68646](https://programmers.co.kr/learn/courses/30/lessons/68646) | [🔍](./Level_3/68646.py) | ☑ |
+| 39 | 가장 긴 팰린드롬 | [12904](https://programmers.co.kr/learn/courses/30/lessons/12904) | [🔍](./Level_3/12904.py) | ☑ |
+| 40 | 스타 수열 | [70130](https://programmers.co.kr/learn/courses/30/lessons/70130) | [🔍](./Level_3/70130.py) | ☑ |
 | 41 | 기지국 설치 | [12979](https://programmers.co.kr/learn/courses/30/lessons/12979) | [🔍](./Level_3/12979.py) | ❌ |
 | 42 | 숫자 게임 | [12987](https://programmers.co.kr/learn/courses/30/lessons/12987) | [🔍](./Level_3/12987.py) | ❌ |
 | 43 | 스티커 모으기(2) | [12971](https://programmers.co.kr/learn/courses/30/lessons/12971) | [🔍](./Level_3/12971.py) | ❌ |

@@ -90,7 +90,8 @@ def move(board, xy0, xy1):
                 if 0 <= x + dx < 4 and 0 <= y + dy < 4:
                     queue.append(((x + dx, y + dy), dis + 1))
                     queue.append((ctrl(board, x, y, dx, dy), dis + 1))
-    return visited[xy1[0]][xy0[1]]
+
+    return visited[xy1[0]][xy1[1]]
 
 
 def solution(board, r, c):
@@ -115,12 +116,20 @@ def solution(board, r, c):
         for k1, k2 in i:
             tmp = [(move(maps, xy, k1) + move(maps, k1, k2), k2) for xy in arr] \
                   + [(move(maps, xy, k2) + move(maps, k2, k1), k1) for xy in arr]
+<<<<<<< HEAD
             print(tmp)
             maps[k1[0]][k2[1]] = maps[k2[0]][k1[0]] = 0
 
             cnt += 2 + (mvn := min(tmp)[0])
             arr = [xy for m, xy in arr if m == mvn]
         answer = min(answer, cnt) 
+=======
+            maps[k1[0]][k1[1]] = maps[k2[0]][k2[1]] = 0
+
+            cnt += 2 + (mvn := min(tmp)[0])
+            arr = [xy for m, xy in tmp if m == mvn]
+        answer = min(answer, cnt)
+>>>>>>> 9157a4e675c52030d25794215c3a240f62dd2e17
     return answer
 
 
