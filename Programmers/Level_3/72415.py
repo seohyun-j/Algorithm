@@ -75,7 +75,7 @@ def ctrl(board, x0, y0, dx, dy):
             if board[x1][y1] > 0:
                 return (x1, y1)
             l = i
-    return (x0 + dx * l, y0 + dy * l)
+    return x0 + dx * l, y0 + dy * l
 
 
 def move(board, xy0, xy1):
