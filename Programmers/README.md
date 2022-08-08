@@ -181,7 +181,7 @@
 | 39 | 가장 긴 팰린드롬 | [12904](https://programmers.co.kr/learn/courses/30/lessons/12904) | [🔍](./Level_3/12904.py) | ☑ |
 | 40 | 스타 수열 | [70130](https://programmers.co.kr/learn/courses/30/lessons/70130) | [🔍](./Level_3/70130.py) | ☑ |
 | 41 | 기지국 설치 | [12979](https://programmers.co.kr/learn/courses/30/lessons/12979) | [🔍](./Level_3/12979.py) | ☑ |
-| 42 | 숫자 게임 | [12987](https://programmers.co.kr/learn/courses/30/lessons/12987) | [🔍](./Level_3/12987.py) | ☑ |
+| 42 | 숫자 게임 | [12987](https://programmers.co.kr/learn/courses/30/lessons/12987) | [🔍](./Level_3/12987.py) | ❌ |
 | 43 | 스티커 모으기(2) | [12971](https://programmers.co.kr/learn/courses/30/lessons/12971) | [🔍](./Level_3/12971.py) | ❌ |
 | 44 | 거스름돈 | [12907](https://programmers.co.kr/learn/courses/30/lessons/12907) | [🔍](./Level_3/12907.py) | ❌ |
 | 45 | 선입 선출 스케줄링 | [12920](https://programmers.co.kr/learn/courses/30/lessons/12920) | [🔍](./Level_3/12920.py) | ❌ |
